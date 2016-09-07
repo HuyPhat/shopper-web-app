@@ -1,0 +1,226 @@
+[
+  {
+    "_id": "57564359a816261100b58f51",
+    "name": "Máy Chế Biến Đa Năng",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 182,
+    "salePrice": 8129000,
+    "retailPrice": 16688000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aadc0e881530c008ef535.jpg",
+    "variation": null
+  },
+  {
+    "_id": "5743d26b419cdd0e008207fb",
+    "name": "Hoa Tai Glam & Soul",
+    "brand": "THOMAS SABO",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Trang sức"
+    },
+    "count": 111,
+    "salePrice": 1369000,
+    "retailPrice": 2840000,
+    "image": "https://leflair-assets.storage.googleapis.com/57458f8b4293de0c005007d9.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f49",
+    "name": "Máy Xay Thủy Tinh Đa Năng",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 80,
+    "salePrice": 1899000,
+    "retailPrice": 2990000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa887e881530c008ef50b.jpg",
+    "variation": null
+  },
+  {
+    "_id": "573402d6303c020e00b9f2cf",
+    "name": "Bộ Chăn Chần & Drap 160*200 (6 Món)",
+    "brand": "Lotus",
+    "attributeGroupBy": "Color",
+    "type": {
+      "displayName": "Chăn ga gối đệm"
+    },
+    "count": 74,
+    "salePrice": 2379000,
+    "retailPrice": 5020000,
+    "image": "https://leflair-assets.storage.googleapis.com/57359ebc65840a0e00cc50f4.jpg",
+    "variation": "SD14B"
+  },
+  {
+    "_id": "57564359a816261100b58f53",
+    "name": "Nồi Cơm Điện 1.5 Lít",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 73,
+    "salePrice": 779000,
+    "retailPrice": 1140000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aaebfe881530c008ef53f.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f4c",
+    "name": "Máy Pha Cafe",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 66,
+    "salePrice": 669000,
+    "retailPrice": 1089000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa9fce881530c008ef516.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f4b",
+    "name": "Máy Pha Cafe kMix",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 66,
+    "salePrice": 1659000,
+    "retailPrice": 2700000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa95be881530c008ef513.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f50",
+    "name": "Máy Ép Trái Cây Cao Cấp",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 65,
+    "salePrice": 1929000,
+    "retailPrice": 2990000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aad7de881530c008ef532.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f55",
+    "name": "Máy Nghiền Trộn Thức Ăn",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 60,
+    "salePrice": 5299000,
+    "retailPrice": 12170000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aaf1fe881530c008ef544.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f52",
+    "name": "Nồi Cơm Điện 1 Lít",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 58,
+    "salePrice": 979000,
+    "retailPrice": 1450000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aadc8e881530c008ef539.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f4d",
+    "name": "Máy Xay Đa Năng",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 58,
+    "salePrice": 2819000,
+    "retailPrice": 4250000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aaa0be881530c008ef51a.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f46",
+    "name": "Bình Thủy Điện Cao Cấp",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 56,
+    "salePrice": 999000,
+    "retailPrice": 1400000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa675e881530c008ef4fc.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f47",
+    "name": "Máy Xay Sinh Tố",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 55,
+    "salePrice": 899000,
+    "retailPrice": 1270000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa709e881530c008ef4ff.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f4e",
+    "name": "Máy Xay Sinh Tố Cầm Tay",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 55,
+    "salePrice": 2569000,
+    "retailPrice": 3930000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aac83e881530c008ef527.jpg",
+    "variation": null
+  },
+  {
+    "_id": "57564359a816261100b58f4a",
+    "name": "Máy Xay Đa Năng kMix",
+    "brand": "Kenwood",
+    "attributeGroupBy": null,
+    "type": {
+      "displayName": "Gia dụng"
+    },
+    "count": 49,
+    "salePrice": 2919000,
+    "retailPrice": 4500000,
+    "image": "https://leflair-assets.storage.googleapis.com/575aa896e881530c008ef50e.jpg",
+    "variation": null
+  },
+  {
+    "_id": "573402d6303c020e00b9f2cd",
+    "name": "Bộ Drap Giường 160*200cm (5 Món)",
+    "brand": "Lotus",
+    "attributeGroupBy": "Color",
+    "type": {
+      "displayName": "Chăn ga gối đệm"
+    },
+    "count": 48,
+    "salePrice": 979000,
+    "retailPrice": 1840000,
+    "image": "https://leflair-assets.storage.googleapis.com/57359e8765840a0e00cc50f2.jpg",
+    "variation": "SD14B"
+  }
+]
