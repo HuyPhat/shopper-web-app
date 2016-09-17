@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "concurrently": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
     "react-scripts": "0.4.1"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "moment": "^2.14.1",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "^15.3.1",
+    "react-router": "^2.8.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "concurrently --kill-others 'react-scripts start' 'gulp'",
+    "build": "gulp sass && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

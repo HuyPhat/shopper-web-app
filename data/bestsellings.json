@@ -1,226 +1,642 @@
-[
-  {
-    "_id": "57564359a816261100b58f51",
-    "name": "Máy Chế Biến Đa Năng",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+{
+  "current": [
+    {
+      "_id": "57c7b27c66c7cc0f00026e95",
+      "POTD": false,
+      "featured": false,
+      "name": "Nước Hoa cho Chàng và Nàng",
+      "endDate": "2016-09-15T01:00:00.000Z",
+      "title": "Nước Hoa cho Chàng và Nàng",
+      "image1": {
+        "_id": "57d0ebacd57f8a0f00cb6b6f",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d0ebacd57f8a0f00cb6b6f.jpg",
+        "id": "57d0ebacd57f8a0f00cb6b6f"
+      },
+      "image2": {
+        "_id": "57d0ebb1d57f8a0f00cb6b70",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d0ebb1d57f8a0f00cb6b70.jpg",
+        "id": "57d0ebb1d57f8a0f00cb6b70"
+      },
+      "_validUpcoming": false,
+      "id": "57c7b27c66c7cc0f00026e95"
     },
-    "count": 182,
-    "salePrice": 8129000,
-    "retailPrice": 16688000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aadc0e881530c008ef535.jpg",
-    "variation": null
-  },
-  {
-    "_id": "5743d26b419cdd0e008207fb",
-    "name": "Hoa Tai Glam & Soul",
-    "brand": "THOMAS SABO",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Trang sức"
+    {
+      "_id": "57c7b24866c7cc0f00026e90",
+      "POTD": false,
+      "featured": false,
+      "name": "Etude House: Thời Trang Cho Tóc Nhuộm",
+      "endDate": "2016-09-17T01:00:00.000Z",
+      "title": "Etude House: Thời Trang Cho Tóc Nhuộm",
+      "image1": {
+        "_id": "57d0eea0d57f8a0f00cb6c08",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d0eea0d57f8a0f00cb6c08.jpg",
+        "id": "57d0eea0d57f8a0f00cb6c08"
+      },
+      "image2": {
+        "_id": "57d0eea3d57f8a0f00cb6c09",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d0eea3d57f8a0f00cb6c09.jpg",
+        "id": "57d0eea3d57f8a0f00cb6c09"
+      },
+      "_validUpcoming": false,
+      "id": "57c7b24866c7cc0f00026e90"
     },
-    "count": 111,
-    "salePrice": 1369000,
-    "retailPrice": 2840000,
-    "image": "https://leflair-assets.storage.googleapis.com/57458f8b4293de0c005007d9.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f49",
-    "name": "Máy Xay Thủy Tinh Đa Năng",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c6a95729c2db0f0051bdc9",
+      "POTD": false,
+      "featured": false,
+      "name": "Giày Fitflop Dành Cho Các Nàng",
+      "endDate": "2016-09-17T01:00:00.000Z",
+      "image1": {
+        "_id": "57ce3410d87cc30f008a7093",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ce3410d87cc30f008a7093.jpg",
+        "id": "57ce3410d87cc30f008a7093"
+      },
+      "image2": {
+        "_id": "57ce3416d87cc30f008a7094",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ce3416d87cc30f008a7094.jpg",
+        "id": "57ce3416d87cc30f008a7094"
+      },
+      "title": "Giày Fitflop Dành Cho Các Nàng",
+      "_validUpcoming": false,
+      "id": "57c6a95729c2db0f0051bdc9"
     },
-    "count": 80,
-    "salePrice": 1899000,
-    "retailPrice": 2990000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa887e881530c008ef50b.jpg",
-    "variation": null
-  },
-  {
-    "_id": "573402d6303c020e00b9f2cf",
-    "name": "Bộ Chăn Chần & Drap 160*200 (6 Món)",
-    "brand": "Lotus",
-    "attributeGroupBy": "Color",
-    "type": {
-      "displayName": "Chăn ga gối đệm"
+    {
+      "_id": "57d12284d002b50f0056f318",
+      "POTD": false,
+      "featured": false,
+      "name": "Đồng Hồ Nữ Emporio Armani",
+      "endDate": "2016-09-16T01:00:00.000Z",
+      "title": "Đồng Hồ Nữ Emporio Armani",
+      "image1": {
+        "_id": "57d143958f1ac910008241ab",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d143958f1ac910008241ab.jpg",
+        "id": "57d143958f1ac910008241ab"
+      },
+      "image2": {
+        "_id": "57d1439b8f1ac910008241ae",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d1439b8f1ac910008241ae.jpg",
+        "id": "57d1439b8f1ac910008241ae"
+      },
+      "_validUpcoming": false,
+      "id": "57d12284d002b50f0056f318"
     },
-    "count": 74,
-    "salePrice": 2379000,
-    "retailPrice": 5020000,
-    "image": "https://leflair-assets.storage.googleapis.com/57359ebc65840a0e00cc50f4.jpg",
-    "variation": "SD14B"
-  },
-  {
-    "_id": "57564359a816261100b58f53",
-    "name": "Nồi Cơm Điện 1.5 Lít",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57cf8b0447ada90f005eb23c",
+      "POTD": false,
+      "featured": false,
+      "name": "Túi Xách Sành Điệu Accessorize Cho Các Nàng",
+      "endDate": "2016-09-16T01:00:00.000Z",
+      "title": "Túi Xách Sành Điệu Accessorize Cho Các Nàng",
+      "image1": {
+        "_id": "57cfb94cf188af0f004e7e2b",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cfb94cf188af0f004e7e2b.jpg",
+        "id": "57cfb94cf188af0f004e7e2b"
+      },
+      "image2": {
+        "_id": "57cfb952f188af0f004e7e2c",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cfb952f188af0f004e7e2c.jpg",
+        "id": "57cfb952f188af0f004e7e2c"
+      },
+      "_validUpcoming": false,
+      "id": "57cf8b0447ada90f005eb23c"
     },
-    "count": 73,
-    "salePrice": 779000,
-    "retailPrice": 1140000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aaebfe881530c008ef53f.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f4c",
-    "name": "Máy Pha Cafe",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c7afb866c7cc0f00026e2d",
+      "POTD": false,
+      "featured": false,
+      "name": "Thực Phẩm Chức Năng Làm Đẹp Da",
+      "endDate": "2016-09-16T01:00:00.000Z",
+      "title": "Thực Phẩm Chức Năng Làm Đẹp Da",
+      "image1": {
+        "_id": "57cfe1c7f188af0f004e85ab",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cfe1c7f188af0f004e85ab.jpg",
+        "id": "57cfe1c7f188af0f004e85ab"
+      },
+      "image2": {
+        "_id": "57d11b16d002b50f0056f267",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d11b16d002b50f0056f267.jpg",
+        "id": "57d11b16d002b50f0056f267"
+      },
+      "_validUpcoming": false,
+      "id": "57c7afb866c7cc0f00026e2d"
     },
-    "count": 66,
-    "salePrice": 669000,
-    "retailPrice": 1089000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa9fce881530c008ef516.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f4b",
-    "name": "Máy Pha Cafe kMix",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c6a2c629c2db0f0051bd62",
+      "POTD": false,
+      "featured": false,
+      "name": "Áo US Polo Dành cho Các Quý Ông",
+      "endDate": "2016-09-14T01:00:00.000Z",
+      "title": "Áo US Polo Dành cho Các Quý Ông",
+      "image1": {
+        "_id": "57cf95070390e3160045e1bd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cf95070390e3160045e1bd.jpg",
+        "id": "57cf95070390e3160045e1bd"
+      },
+      "image2": {
+        "_id": "57cf950f0390e3160045e1bf",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cf950f0390e3160045e1bf.jpg",
+        "id": "57cf950f0390e3160045e1bf"
+      },
+      "_validUpcoming": false,
+      "id": "57c6a2c629c2db0f0051bd62"
     },
-    "count": 66,
-    "salePrice": 1659000,
-    "retailPrice": 2700000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa95be881530c008ef513.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f50",
-    "name": "Máy Ép Trái Cây Cao Cấp",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c692843a381d0f00b267fd",
+      "POTD": false,
+      "featured": true,
+      "name": "Thời Trang Tonalá Sành Điệu cho các Nàng",
+      "endDate": "2016-09-16T01:00:00.000Z",
+      "image1": {
+        "_id": "57d224d88f1ac910008243fc",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d224d88f1ac910008243fc.jpg",
+        "id": "57d224d88f1ac910008243fc"
+      },
+      "image2": {
+        "_id": "57ccee05d87cc30f008a62da",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ccee05d87cc30f008a62da.jpg",
+        "id": "57ccee05d87cc30f008a62da"
+      },
+      "title": "Thời Trang Tonalá Sành Điệu cho các Nàng",
+      "_validUpcoming": false,
+      "id": "57c692843a381d0f00b267fd"
     },
-    "count": 65,
-    "salePrice": 1929000,
-    "retailPrice": 2990000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aad7de881530c008ef532.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f55",
-    "name": "Máy Nghiền Trộn Thức Ăn",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c6a07329c2db0f0051bd3a",
+      "POTD": false,
+      "featured": false,
+      "name": "Sản Phẩm Trang Điểm Pastel",
+      "endDate": "2016-09-15T01:00:00.000Z",
+      "title": "Sản Phẩm Trang Điểm Pastel",
+      "image1": {
+        "_id": "57cf864b47ada90f005eb1fc",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cf864b47ada90f005eb1fc.jpg",
+        "id": "57cf864b47ada90f005eb1fc"
+      },
+      "image2": {
+        "_id": "57cf864f47ada90f005eb1fd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cf864f47ada90f005eb1fd.jpg",
+        "id": "57cf864f47ada90f005eb1fd"
+      },
+      "_validUpcoming": false,
+      "id": "57c6a07329c2db0f0051bd3a"
     },
-    "count": 60,
-    "salePrice": 5299000,
-    "retailPrice": 12170000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aaf1fe881530c008ef544.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f52",
-    "name": "Nồi Cơm Điện 1 Lít",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c6a05f29c2db0f0051bd37",
+      "POTD": false,
+      "featured": false,
+      "name": "Nước Hoa Lolita Lempika",
+      "endDate": "2016-09-13T01:00:00.000Z",
+      "title": "Nước Hoa Lolita Lempika",
+      "image1": {
+        "_id": "57ce86b8d87cc30f008a7c48",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ce86b8d87cc30f008a7c48.jpg",
+        "id": "57ce86b8d87cc30f008a7c48"
+      },
+      "image2": {
+        "_id": "57d012bfd57f8a0f00cb645f",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d012bfd57f8a0f00cb645f.jpg",
+        "id": "57d012bfd57f8a0f00cb645f"
+      },
+      "_validUpcoming": false,
+      "id": "57c6a05f29c2db0f0051bd37"
     },
-    "count": 58,
-    "salePrice": 979000,
-    "retailPrice": 1450000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aadc8e881530c008ef539.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f4d",
-    "name": "Máy Xay Đa Năng",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c694c23a381d0f00b2682b",
+      "POTD": false,
+      "featured": true,
+      "name": "Kính Mát Thời Trang Salvatore Ferragamo Cho Chàng và Nàng",
+      "endDate": "2016-09-15T01:00:00.000Z",
+      "image1": {
+        "_id": "57d112b2d002b50f0056f131",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57d112b2d002b50f0056f131.jpg",
+        "id": "57d112b2d002b50f0056f131"
+      },
+      "image2": {
+        "_id": "57cfbe44f188af0f004e7ea9",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cfbe44f188af0f004e7ea9.jpg",
+        "id": "57cfbe44f188af0f004e7ea9"
+      },
+      "title": "Kính Mát Thời Trang Salvatore Ferragamo Cho Chàng và Nàng",
+      "_validUpcoming": false,
+      "id": "57c694c23a381d0f00b2682b"
     },
-    "count": 58,
-    "salePrice": 2819000,
-    "retailPrice": 4250000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aaa0be881530c008ef51a.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f46",
-    "name": "Bình Thủy Điện Cao Cấp",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c524c236861c0e0013f709",
+      "POTD": false,
+      "featured": false,
+      "name": "Vòng Tay và Bông Tai Lalizs",
+      "endDate": "2016-09-15T01:00:00.000Z",
+      "title": "Vòng Tay và Bông Tai Lalizs",
+      "image1": {
+        "_id": "57cff433d57f8a0f00cb63dc",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cff433d57f8a0f00cb63dc.jpg",
+        "id": "57cff433d57f8a0f00cb63dc"
+      },
+      "image2": {
+        "_id": "57cff437d57f8a0f00cb63dd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cff437d57f8a0f00cb63dd.jpg",
+        "id": "57cff437d57f8a0f00cb63dd"
+      },
+      "_validUpcoming": false,
+      "id": "57c524c236861c0e0013f709"
     },
-    "count": 56,
-    "salePrice": 999000,
-    "retailPrice": 1400000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa675e881530c008ef4fc.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f47",
-    "name": "Máy Xay Sinh Tố",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c5133336861c0e0013f68e",
+      "POTD": false,
+      "featured": false,
+      "name": "Dây Chuyền và Mặt Dây Chuyền Lalizs cho Các Nàng",
+      "endDate": "2016-09-15T01:00:00.000Z",
+      "title": "Dây Chuyền và Mặt Dây Chuyền Lalizs cho Các Nàng",
+      "image1": {
+        "_id": "57cff51fd57f8a0f00cb63e3",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cff51fd57f8a0f00cb63e3.jpg",
+        "id": "57cff51fd57f8a0f00cb63e3"
+      },
+      "image2": {
+        "_id": "57cff525d57f8a0f00cb63e4",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cff525d57f8a0f00cb63e4.jpg",
+        "id": "57cff525d57f8a0f00cb63e4"
+      },
+      "_validUpcoming": false,
+      "id": "57c5133336861c0e0013f68e"
     },
-    "count": 55,
-    "salePrice": 899000,
-    "retailPrice": 1270000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa709e881530c008ef4ff.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f4e",
-    "name": "Máy Xay Sinh Tố Cầm Tay",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c692953a381d0f00b26800",
+      "POTD": false,
+      "featured": false,
+      "name": "Dây Cáp Điện Thoại ADATA",
+      "endDate": "2016-09-14T01:00:00.000Z",
+      "image1": {
+        "_id": "57ccf4a3d87cc30f008a657a",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ccf4a3d87cc30f008a657a.jpg",
+        "id": "57ccf4a3d87cc30f008a657a"
+      },
+      "image2": {
+        "_id": "57ccf4a4d87cc30f008a657b",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ccf4a4d87cc30f008a657b.jpg",
+        "id": "57ccf4a4d87cc30f008a657b"
+      },
+      "title": "Dây Cáp Điện Thoại ADATA",
+      "_validUpcoming": false,
+      "id": "57c692953a381d0f00b26800"
     },
-    "count": 55,
-    "salePrice": 2569000,
-    "retailPrice": 3930000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aac83e881530c008ef527.jpg",
-    "variation": null
-  },
-  {
-    "_id": "57564359a816261100b58f4a",
-    "name": "Máy Xay Đa Năng kMix",
-    "brand": "Kenwood",
-    "attributeGroupBy": null,
-    "type": {
-      "displayName": "Gia dụng"
+    {
+      "_id": "57c6917a3a381d0f00b267ba",
+      "POTD": false,
+      "featured": false,
+      "name": "Trang Phục Lót Nữ iBasic",
+      "endDate": "2016-09-14T01:00:00.000Z",
+      "title": "Trang Phục Lót Nữ iBasic",
+      "image1": {
+        "_id": "57cd4f8fd87cc30f008a6da0",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cd4f8fd87cc30f008a6da0.jpg",
+        "id": "57cd4f8fd87cc30f008a6da0"
+      },
+      "image2": {
+        "_id": "57ce73dcd87cc30f008a7a3d",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ce73dcd87cc30f008a7a3d.jpg",
+        "id": "57ce73dcd87cc30f008a7a3d"
+      },
+      "_validUpcoming": false,
+      "id": "57c6917a3a381d0f00b267ba"
     },
-    "count": 49,
-    "salePrice": 2919000,
-    "retailPrice": 4500000,
-    "image": "https://leflair-assets.storage.googleapis.com/575aa896e881530c008ef50e.jpg",
-    "variation": null
-  },
-  {
-    "_id": "573402d6303c020e00b9f2cd",
-    "name": "Bộ Drap Giường 160*200cm (5 Món)",
-    "brand": "Lotus",
-    "attributeGroupBy": "Color",
-    "type": {
-      "displayName": "Chăn ga gối đệm"
+    {
+      "_id": "57c3c8f921a7800f003694cd",
+      "POTD": false,
+      "featured": false,
+      "name": "Mỹ Phẩm It's Skin",
+      "endDate": "2016-09-14T01:00:00.000Z",
+      "title": "Mỹ Phẩm It's Skin",
+      "image1": {
+        "_id": "57cce5b6d87cc30f008a6221",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cce5b6d87cc30f008a6221.jpg",
+        "id": "57cce5b6d87cc30f008a6221"
+      },
+      "image2": {
+        "_id": "57cce5c0d87cc30f008a6222",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cce5c0d87cc30f008a6222.jpg",
+        "id": "57cce5c0d87cc30f008a6222"
+      },
+      "_validUpcoming": false,
+      "id": "57c3c8f921a7800f003694cd"
     },
-    "count": 48,
-    "salePrice": 979000,
-    "retailPrice": 1840000,
-    "image": "https://leflair-assets.storage.googleapis.com/57359e8765840a0e00cc50f2.jpg",
-    "variation": "SD14B"
-  }
-]
+    {
+      "_id": "57c3bbc960f47f0e00692d1a",
+      "POTD": false,
+      "featured": true,
+      "name": "Túi Xách Thời Trang Jina In New York",
+      "endDate": "2016-09-14T01:00:00.000Z",
+      "title": "Túi Xách Thời Trang Jina In New York",
+      "image1": {
+        "_id": "57ccf73fd87cc30f008a663e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ccf73fd87cc30f008a663e.jpg",
+        "id": "57ccf73fd87cc30f008a663e"
+      },
+      "image2": {
+        "_id": "57ccf745d87cc30f008a663f",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ccf745d87cc30f008a663f.jpg",
+        "id": "57ccf745d87cc30f008a663f"
+      },
+      "_validUpcoming": false,
+      "id": "57c3bbc960f47f0e00692d1a"
+    },
+    {
+      "_id": "57c691243a381d0f00b2678d",
+      "POTD": false,
+      "featured": false,
+      "name": "Sơn Móng Tay Morgan Taylor",
+      "endDate": "2016-09-13T01:00:00.000Z",
+      "title": "Sơn Móng Tay Morgan Taylor",
+      "image1": {
+        "_id": "57c7f20866c7cc0f00027837",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7f20866c7cc0f00027837.jpg",
+        "id": "57c7f20866c7cc0f00027837"
+      },
+      "image2": {
+        "_id": "57c7f20c66c7cc0f00027838",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7f20c66c7cc0f00027838.jpg",
+        "id": "57c7f20c66c7cc0f00027838"
+      },
+      "_validUpcoming": false,
+      "id": "57c691243a381d0f00b2678d"
+    },
+    {
+      "_id": "57c690d93a381d0f00b2677d",
+      "POTD": false,
+      "featured": false,
+      "name": "Trang Phục Jockey Năng Động cho Chàng và Nàng",
+      "endDate": "2016-09-13T01:00:00.000Z",
+      "title": "Trang Phục Jockey Năng Động cho Chàng và Nàng",
+      "image1": {
+        "_id": "57c80e31d87cc30f008a58f5",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c80e31d87cc30f008a58f5.jpg",
+        "id": "57c80e31d87cc30f008a58f5"
+      },
+      "image2": {
+        "_id": "57c80e36d87cc30f008a58f7",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c80e36d87cc30f008a58f7.jpg",
+        "id": "57c80e36d87cc30f008a58f7"
+      },
+      "_validUpcoming": false,
+      "id": "57c690d93a381d0f00b2677d"
+    },
+    {
+      "_id": "57c656ce125cdb1000ba4781",
+      "POTD": false,
+      "featured": true,
+      "name": "Thiết Bị Nhà Bếp Kenwood",
+      "endDate": "2016-09-13T01:00:00.000Z",
+      "title": "Thiết Bị Nhà Bếp Kenwood",
+      "image1": {
+        "_id": "57c7b34266c7cc0f00026e9d",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7b34266c7cc0f00026e9d.jpg",
+        "id": "57c7b34266c7cc0f00026e9d"
+      },
+      "image2": {
+        "_id": "57c7b34466c7cc0f00026e9e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7b34466c7cc0f00026e9e.jpg",
+        "id": "57c7b34466c7cc0f00026e9e"
+      },
+      "_validUpcoming": false,
+      "id": "57c656ce125cdb1000ba4781"
+    },
+    {
+      "_id": "57c5255936861c0e0013f729",
+      "POTD": false,
+      "featured": false,
+      "name": "Trang Sức Thomas Sabo",
+      "endDate": "2016-09-13T01:00:00.000Z",
+      "title": "Trang Sức Thomas Sabo",
+      "image1": {
+        "_id": "57c7da3166c7cc0f00027288",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7da3166c7cc0f00027288.jpg",
+        "id": "57c7da3166c7cc0f00027288"
+      },
+      "image2": {
+        "_id": "57c7da3266c7cc0f00027289",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7da3266c7cc0f00027289.jpg",
+        "id": "57c7da3266c7cc0f00027289"
+      },
+      "_validUpcoming": false,
+      "id": "57c5255936861c0e0013f729"
+    },
+    {
+      "_id": "57c68c343a381d0f00b2672b",
+      "POTD": false,
+      "featured": false,
+      "name": "Túi Xách Cavalli Class",
+      "endDate": "2016-09-12T01:00:00.000Z",
+      "title": "Túi Xách Cavalli Class",
+      "image1": {
+        "_id": "57c7d7b066c7cc0f0002725e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7d7b066c7cc0f0002725e.jpg",
+        "id": "57c7d7b066c7cc0f0002725e"
+      },
+      "image2": {
+        "_id": "57c7d7b366c7cc0f0002725f",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c7d7b366c7cc0f0002725f.jpg",
+        "id": "57c7d7b366c7cc0f0002725f"
+      },
+      "_validUpcoming": false,
+      "id": "57c68c343a381d0f00b2672b"
+    },
+    {
+      "_id": "57c4ff4236861c0e0013f4c9",
+      "POTD": false,
+      "featured": false,
+      "name": "Vòng Tay Charm Cao Cấp Yeno",
+      "endDate": "2016-09-12T01:00:00.000Z",
+      "title": "Vòng Tay Charm Cao Cấp Yeno",
+      "image1": {
+        "_id": "57c6ad7f29c2db0f0051be49",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c6ad7f29c2db0f0051be49.jpg",
+        "id": "57c6ad7f29c2db0f0051be49"
+      },
+      "image2": {
+        "_id": "57c6ad8729c2db0f0051be4a",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c6ad8729c2db0f0051be4a.jpg",
+        "id": "57c6ad8729c2db0f0051be4a"
+      },
+      "_validUpcoming": false,
+      "id": "57c4ff4236861c0e0013f4c9"
+    },
+    {
+      "_id": "57bec994bc7e6d0f009e7c5d",
+      "POTD": false,
+      "featured": true,
+      "name": "Kính Mát Thời Trang SVD",
+      "endDate": "2016-09-12T01:00:00.000Z",
+      "title": "Kính Mát Thời Trang SVD",
+      "image1": {
+        "_id": "57cd1613d87cc30f008a67ec",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57cd1613d87cc30f008a67ec.jpg",
+        "id": "57cd1613d87cc30f008a67ec"
+      },
+      "image2": {
+        "_id": "57c79f603d306710009709ed",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c79f603d306710009709ed.jpg",
+        "id": "57c79f603d306710009709ed"
+      },
+      "_validUpcoming": false,
+      "id": "57bec994bc7e6d0f009e7c5d"
+    },
+    {
+      "_id": "57c68bfc3a381d0f00b2672a",
+      "POTD": false,
+      "featured": false,
+      "name": "Sản Phẩm Chăm Sóc Tóc Baxter",
+      "endDate": "2016-09-11T01:00:00.000Z",
+      "title": "Sản Phẩm Chăm Sóc Tóc Baxter",
+      "image1": {
+        "_id": "57c79a5c3d30671000970931",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c79a5c3d30671000970931.jpg",
+        "id": "57c79a5c3d30671000970931"
+      },
+      "image2": {
+        "_id": "57c79a603d30671000970932",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c79a603d30671000970932.jpg",
+        "id": "57c79a603d30671000970932"
+      },
+      "_validUpcoming": false,
+      "id": "57c68bfc3a381d0f00b2672a"
+    },
+    {
+      "_id": "57c66119125cdb1000ba48cb",
+      "POTD": false,
+      "featured": true,
+      "name": "Túi Xách Thời Trang Ralph Lauren",
+      "endDate": "2016-09-11T01:00:00.000Z",
+      "image1": {
+        "_id": "57c6953e3a381d0f00b26830",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c6953e3a381d0f00b26830.jpg",
+        "id": "57c6953e3a381d0f00b26830"
+      },
+      "image2": {
+        "_id": "57c695493a381d0f00b26831",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c695493a381d0f00b26831.jpg",
+        "id": "57c695493a381d0f00b26831"
+      },
+      "title": "Túi Xách Thời Trang Ralph Lauren",
+      "_validUpcoming": false,
+      "id": "57c66119125cdb1000ba48cb"
+    },
+    {
+      "_id": "57c3e84336861c0e0013eabf",
+      "POTD": false,
+      "featured": false,
+      "name": "Giày Tập Đi Attipas Dành Cho Các Bé",
+      "endDate": "2016-09-11T01:00:00.000Z",
+      "title": "Giày Tập Đi Attipas Dành Cho Các Bé",
+      "image1": {
+        "_id": "57c678c35be20a10000138a6",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c678c35be20a10000138a6.jpg",
+        "id": "57c678c35be20a10000138a6"
+      },
+      "image2": {
+        "_id": "57c678ea5be20a10000138a7",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c678ea5be20a10000138a7.jpg",
+        "id": "57c678ea5be20a10000138a7"
+      },
+      "_validUpcoming": false,
+      "id": "57c3e84336861c0e0013eabf"
+    },
+    {
+      "_id": "57c3e80136861c0e0013eab4",
+      "POTD": false,
+      "featured": false,
+      "name": "Sản Phẩm Dưỡng Da Bubchen Cho Mẹ và Bé",
+      "endDate": "2016-09-11T01:00:00.000Z",
+      "title": "Sản Phẩm Dưỡng Da Bubchen Cho Mẹ và Bé",
+      "image1": {
+        "_id": "57c66129125cdb1000ba48cd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c66129125cdb1000ba48cd.jpg",
+        "id": "57c66129125cdb1000ba48cd"
+      },
+      "image2": {
+        "_id": "57c6612f125cdb1000ba48cf",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c6612f125cdb1000ba48cf.jpg",
+        "id": "57c6612f125cdb1000ba48cf"
+      },
+      "_validUpcoming": false,
+      "id": "57c3e80136861c0e0013eab4"
+    },
+    {
+      "_id": "57c3a89f47b6d81000aaa1d1",
+      "POTD": false,
+      "featured": false,
+      "name": "Vali Cao Cấp President",
+      "endDate": "2016-09-11T01:00:00.000Z",
+      "title": "Vali Cao Cấp President",
+      "image1": {
+        "_id": "57c69e1a29c2db0f0051bcfc",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c69e1a29c2db0f0051bcfc.jpg",
+        "id": "57c69e1a29c2db0f0051bcfc"
+      },
+      "image2": {
+        "_id": "57c69e1d29c2db0f0051bcfd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57c69e1d29c2db0f0051bcfd.jpg",
+        "id": "57c69e1d29c2db0f0051bcfd"
+      },
+      "_validUpcoming": false,
+      "id": "57c3a89f47b6d81000aaa1d1"
+    }
+  ]
+}

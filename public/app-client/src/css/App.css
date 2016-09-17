@@ -1,3 +1,22 @@
+html {
+  background: #FFF;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  color: #384452;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  height: 100%;
+  margin: 0;
+}
+
+.text-muted, body, p {
+  color: #5D5C5D;
+  font-weight: 300;
+}
+
 .App {
   text-align: center;
 }
@@ -16,6 +35,10 @@
 
 .App-intro {
   font-size: large;
+}
+
+.App-body {
+  font-size: 100%;
 }
 
 @keyframes App-logo-spin {
