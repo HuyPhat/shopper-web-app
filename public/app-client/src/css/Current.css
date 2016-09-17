@@ -33,3 +33,7 @@
   .sell-container .caption .text-muted {
     color: #5D5C5D;
     font-weight: 300; }
+
+.App-body .custom-breadcrumb {
+  text-align: left;
+  margin-top: 20px; }

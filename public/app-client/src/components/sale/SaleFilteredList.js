@@ -4,15 +4,17 @@
 import React from 'react'
 import {Grid, Row, Col} from 'react-bootstrap'
 import $ from "jquery"
-// import SaleItem from './SaleItem'
 import ProductItem from '../product/ProductItem'
+import ProductImage from '../product/ProductImage'
+import Breadcrumbs from '../product/Breadcrumb'
 import '../../css/Current.css'
 
 const SaleList = React.createClass({
     getInitialState() {
         return {
             filteredSales: {},
-            products: []
+            products: [],
+            url: ''
         };
     },
     componentDidMount() {
@@ -23,6 +25,7 @@ const SaleList = React.createClass({
             success: function (data) {
                 this.setState({filteredSales: data})
                 this.setState({products: data.products})
+                this.setState({url: data.image4.url})
                 console.log(this.state.filteredSales)
             }.bind(this),
             error: function (xhr, status, err) {
@@ -33,10 +36,12 @@ const SaleList = React.createClass({
     render() {
         return (
             <Grid>
+                <Row><ProductImage url={this.state.url}/></Row>
+                <Row><Breadcrumbs name={this.state.filteredSales.name}/></Row>
                 <Row>
                     {this.state.products.map(function (product, i) {
                         return (
-                            <ProductItem key={product._id} data={product}/>
+                            <ProductItem data={product}/>
                         )
                     }, this)}
                 </Row>
