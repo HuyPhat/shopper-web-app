@@ -1,0 +1,35 @@
+.sell-container .section-item {
+  margin: 2em 0 0;
+  float: none;
+  display: inline-block;
+  display: inline-flex; }
+  .sell-container .section-item h3 {
+    font-weight: 600;
+    font-size: 22px; }
+
+.sell-container .section-item > a {
+  display: block;
+  width: 100%; }
+
+.sell-container a {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  text-decoration: none;
+  transition: background-color .4s linear, color .4s linear;
+  color: #16accf; }
+
+.sell-container img.fluid {
+  width: 100%;
+  max-width: 100%;
+  height: auto; }
+
+.sell-container .caption {
+  text-align: left; }
+  .sell-container .caption h3 {
+    color: #5D5C5D; }
+    .sell-container .caption h3 .small {
+      color: #16accf; }
+  .sell-container .caption .text-muted {
+    color: #5D5C5D;
+    font-weight: 300; }
