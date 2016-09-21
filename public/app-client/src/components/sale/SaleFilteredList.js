@@ -2,11 +2,11 @@
  * Created by phathuy on 9/11/16.
  */
 import React from 'react'
-import {Grid, Row, Col} from 'react-bootstrap'
+import {Grid, Row, Col, Breadcrumb} from 'react-bootstrap'
 import $ from "jquery"
 import ProductItem from '../product/ProductItem'
 import ProductImage from '../product/ProductImage'
-import Breadcrumbs from '../product/Breadcrumb'
+// import Breadcrumbs from '../product/Breadcrumb'<Breadcrumbs name={this.state.filteredSales.name}/>
 import '../../css/Current.css'
 
 const SaleList = React.createClass({
@@ -34,10 +34,16 @@ const SaleList = React.createClass({
         });
     },
     render() {
+        const breadcrumbInstance = (
+            <Breadcrumb className="custom-breadcrumb">
+                <Breadcrumb.Item href="/">Sales</Breadcrumb.Item>
+                <Breadcrumb.Item active>{this.state.filteredSales.name}</Breadcrumb.Item>
+            </Breadcrumb>
+        );
         return (
             <Grid>
                 <Row><ProductImage url={this.state.url}/></Row>
-                <Row><Breadcrumbs name={this.state.filteredSales.name}/></Row>
+                <Row>{breadcrumbInstance}</Row>
                 <Row>
                     {this.state.products.map(function (product, i) {
                         return (

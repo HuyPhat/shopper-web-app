@@ -4,6 +4,7 @@ import {Router, Route, IndexRoute, browserHistory} from 'react-router'
 import App from './App'
 import Home from './components/home/Home'
 import SaleFilteredList from './components/sale/SaleFilteredList'
+import ProductDetail from './components/product/ProductDetail'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/css/bootstrap-theme.css'
 
@@ -13,6 +14,7 @@ ReactDOM.render(
             <IndexRoute component={Home}/>
             <Route path="/sales" component={Home}/>
             <Route path="/sales/:id" component={SaleFilteredList}/>
+            <Route path="/products/:id" component={ProductDetail}/>
         </Route>
     </Router>,
     document.getElementById('root')
