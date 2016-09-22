@@ -39,6 +39,7 @@ body {
 
 .App-body {
   font-size: 100%;
+  padding-top: 51px;
 }
 
 @keyframes App-logo-spin {
