@@ -1,0 +1,531 @@
+{
+  "items": [
+    {
+      "_id": "57e36b279773a7100095cc9d",
+      "_valid": true,
+      "name": "Thời Trang Nam Fyord và Seaman",
+      "endDate": "2016-09-27T01:00:00.000Z",
+      "startDate": "2016-09-24T01:00:00.000Z",
+      "image4": {
+        "_id": "57e3863c02339410006e589b",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57e3863c02339410006e589b.jpg",
+        "id": "57e3863c02339410006e589b"
+      },
+      "products": [
+        {
+          "_id": "57df7292af2c4a0f00938d87",
+          "brand": "Fyord",
+          "retailPrice": 1090000,
+          "salePrice": 539000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Thun Nam Kẻ Sọc Ngang",
+          "quantity": 13,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5164ce6775a0f004c3696.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d8c",
+          "brand": "Fyord",
+          "retailPrice": 990000,
+          "salePrice": 539000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Thun Nam In Chữ",
+          "quantity": 16,
+          "image": "https://leflair-assets.storage.googleapis.com/57e512b5e6775a0f004c362d.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d9c",
+          "brand": "Fyord",
+          "retailPrice": 1399000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Kiểu Trơn In Logo",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5137de6775a0f004c364a.jpg",
+          "variation": "WH",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d9c",
+          "brand": "Fyord",
+          "retailPrice": 1399000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Kiểu Trơn In Logo",
+          "quantity": 4,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5136ee6775a0f004c3646.jpg",
+          "variation": "CR",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d9c",
+          "brand": "Fyord",
+          "retailPrice": 1399000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Kiểu Trơn In Logo",
+          "quantity": 4,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51360e6775a0f004c3642.jpg",
+          "variation": "BU",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938db3",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Kiểu Trơn",
+          "quantity": 6,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5149be6775a0f004c3666.jpg",
+          "variation": "PI",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938db3",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Kiểu Trơn",
+          "quantity": 5,
+          "image": "https://leflair-assets.storage.googleapis.com/57e514a9e6775a0f004c3668.jpg",
+          "variation": "GR",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc4",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Chi Tiết Túi Nhỏ Trước Ngực",
+          "quantity": 9,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51502e6775a0f004c3671.jpg",
+          "variation": "LG",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc4",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Chi Tiết Túi Nhỏ Trước Ngực",
+          "quantity": 9,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51527e6775a0f004c3678.jpg",
+          "variation": "DB",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc4",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Chi Tiết Túi Nhỏ Trước Ngực",
+          "quantity": 15,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51513e6775a0f004c3675.jpg",
+          "variation": "BL",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc4",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Chi Tiết Túi Nhỏ Trước Ngực",
+          "quantity": 6,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51536e6775a0f004c367c.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dd1",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Xanh Đậm",
+          "quantity": 9,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5160ae6775a0f004c3690.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d93",
+          "brand": "Fyord",
+          "retailPrice": 1399000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Cổ Tay Viền Nổi",
+          "quantity": 6,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51322e6775a0f004c3639.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d95",
+          "brand": "Fyord",
+          "retailPrice": 1699000,
+          "salePrice": 1209000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Cổ Viền Sọc Đôi",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51335e6775a0f004c363d.jpg",
+          "variation": "BL",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dcd",
+          "brand": "Seaman",
+          "retailPrice": 899000,
+          "salePrice": 699000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Chi Tiết Con Thuyền",
+          "quantity": 4,
+          "image": "https://leflair-assets.storage.googleapis.com/57e515f1e6775a0f004c368c.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d84",
+          "brand": "Fyord",
+          "retailPrice": 1890000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam Kẻ Sọc Đứt Khúc",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57e510f7e6775a0f004c3627.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d90",
+          "brand": "Fyord",
+          "retailPrice": 1499000,
+          "salePrice": 1079000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam In Họa Tiết",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57e512dde6775a0f004c3631.jpg",
+          "variation": "GY",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d90",
+          "brand": "Fyord",
+          "retailPrice": 1399000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Polo Nam In Họa Tiết",
+          "quantity": 6,
+          "image": "https://leflair-assets.storage.googleapis.com/57e512f3e6775a0f004c3635.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938da9",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Ngắn Sọc Tattersall",
+          "quantity": 8,
+          "image": "https://leflair-assets.storage.googleapis.com/57e513fce6775a0f004c3657.jpg",
+          "variation": "PI",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938da9",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Ngắn Sọc Tattersall",
+          "quantity": 5,
+          "image": "https://leflair-assets.storage.googleapis.com/57e513dce6775a0f004c364f.jpg",
+          "variation": "OR",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938da9",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Ngắn Sọc Tattersall",
+          "quantity": 7,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51408e6775a0f004c365c.jpg",
+          "variation": "LB",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938da9",
+          "brand": "Seaman",
+          "retailPrice": 599000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Ngắn Sọc Tattersall",
+          "quantity": 5,
+          "image": "https://leflair-assets.storage.googleapis.com/57e513ebe6775a0f004c3655.jpg",
+          "variation": "DB",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d7d",
+          "brand": "Fyord",
+          "retailPrice": 1990000,
+          "salePrice": 729000,
+          "type": {
+            "displayName": "Áo Nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Dài Họa Tiết Hoa Lá",
+          "quantity": 8,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51035e6775a0f004c35f9.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d74",
+          "brand": "Fyord",
+          "retailPrice": 1790000,
+          "salePrice": 659000,
+          "type": {
+            "displayName": "Áo Nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Dài Sọc Graph Màu Xám",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5107ce6775a0f004c3604.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d72",
+          "brand": "Fyord",
+          "retailPrice": 1790000,
+          "salePrice": 659000,
+          "type": {
+            "displayName": "Áo Nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Dài Sọc Graph Màu Xanh Lá",
+          "quantity": 12,
+          "image": "https://leflair-assets.storage.googleapis.com/57e50fade6775a0f004c35ea.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d79",
+          "brand": "Fyord",
+          "retailPrice": 2100000,
+          "salePrice": 769000,
+          "type": {
+            "displayName": "Áo Nam"
+          },
+          "name": "Áo Sơ Mi Nam Tay Dài Sọc Awaning",
+          "quantity": 9,
+          "image": "https://leflair-assets.storage.googleapis.com/57e50fc0e6775a0f004c35ec.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d6c",
+          "brand": "Fyord",
+          "retailPrice": 1890000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Quần Jeans Nam Black Label Màu Xanh Đậm",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57e50f6de6775a0f004c35d8.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57df7292af2c4a0f00938d6e",
+          "brand": "Fyord",
+          "retailPrice": 1790000,
+          "salePrice": 749000,
+          "type": {
+            "displayName": "Áo nam"
+          },
+          "name": "Quần Jeans Nam Black Label",
+          "quantity": 4,
+          "image": "https://leflair-assets.storage.googleapis.com/57e5101de6775a0f004c35f5.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "5762225be881530c008f0948",
+          "salePrice": 639000,
+          "retailPrice": 1390000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "brand": "Seaman",
+          "name": "Quần Short Jean Man Màu Xanh Nhạt",
+          "quantity": 6,
+          "image": "https://leflair-assets.storage.googleapis.com/57623af2e881530c008f0aa3.jpg",
+          "variation": "0",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938db7",
+          "brand": "Seaman",
+          "retailPrice": 799000,
+          "salePrice": 629000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "name": "Quần Short Nam Xanh Đậm",
+          "quantity": 7,
+          "image": "https://leflair-assets.storage.googleapis.com/57e514e9e6775a0f004c366c.jpg",
+          "variation": "NV",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dca",
+          "brand": "Seaman",
+          "retailPrice": 999000,
+          "salePrice": 769000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "name": "Quần Short Nam Màu Beige",
+          "quantity": 7,
+          "image": "https://leflair-assets.storage.googleapis.com/57e515d4e6775a0f004c3688.jpg",
+          "variation": "BE",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc7",
+          "brand": "Seaman",
+          "retailPrice": 799000,
+          "salePrice": 619000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "name": "Quần Bơi Nam",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51584e6775a0f004c3680.jpg",
+          "variation": "RE",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "57df7292af2c4a0f00938dc7",
+          "brand": "Seaman",
+          "retailPrice": 799000,
+          "salePrice": 619000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "name": "Quần Bơi Nam",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57e51599e6775a0f004c3684.jpg",
+          "variation": "GR",
+          "soldOut": false,
+          "attributeGroupBy": "Color"
+        },
+        {
+          "_id": "5762225be881530c008f0947",
+          "salePrice": 529000,
+          "retailPrice": 1490000,
+          "type": {
+            "displayName": "Quần nam"
+          },
+          "brand": "Seaman",
+          "name": "Quần Jean Nam Xanh Đen",
+          "quantity": 0,
+          "image": "https://leflair-assets.storage.googleapis.com/576233f4e881530c008f0a78.jpg",
+          "variation": "0",
+          "soldOut": true,
+          "attributeGroupBy": "Color"
+        }
+      ],
+      "_validUpcoming": false,
+      "id": "57e36b279773a7100095cc9d"
+    }
+  ]
+}

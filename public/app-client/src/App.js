@@ -10,7 +10,7 @@ const App = React.createClass({
             <Navbar className="navbar-fixed-top">
                 <Navbar.Header>
                   <Navbar.Brand>
-                    <a href="/">iShopping</a>
+                    <a href="/sales">iShopping</a>
                   </Navbar.Brand>
                   <Navbar.Toggle />
                 </Navbar.Header>
