@@ -1,139 +1,63 @@
 [
   {
-    "_id": "57d7b16ec37bc21000cf0b89",
+    "_id": "57e241b7eb696d0f00a72f48",
     "brand": {
-      "description": "Paramita là thương hiệu thời trang Tây Ban Nha, ra đời bên bờ Địa Trung Hải và lấy nguồn cảm hứng từ đặc trưng thiên nhiên và hơi thở cuộc sống của thành phố Barcelona. Paramita trong tiếng Phạn có nghĩa là \"sự hoàn hảo\", cũng như kỳ vọng của người sáng lập nên thương hiệu Paramita mong muốn giúp phái đẹp có được vẻ ngoài hoàn hảo với phong cách thời thượng, họa tiết độc đáo, cá tính lạc quan và đậm chất nghệ sĩ.",
-      "name": "Paramita",
-      "logo": "https://leflair-assets.storage.googleapis.com/57db5aa48c747d0f00eadb50.jpg"
+      "description": "Mollis là nhãn hiệu của những chiếc khăn bông và áo choàng tắm cao cấp, lấy ý tưởng từ sự gắn kết cuộc sống, điều kỳ diệu của tình yêu thương và tâm hồn của người nghệ sĩ. Với chất liệu bền đẹp, thân thiện và an toàn, sản phẩm của Mollis mang đến trải nghiệm chăm sóc đầy mềm mại, dịu dàng và tinh tế, quyến rũ và say đắm lòng người cho cuộc sống hiện đại.",
+      "name": "Mollis",
+      "logo": "https://leflair-assets.storage.googleapis.com/57eb69957bf7890f00db933c.png"
     },
-    "retailPrice": 490000,
-    "salePrice": 249000,
+    "retailPrice": 418000,
+    "salePrice": 379000,
     "variationAttributes": {
-      "Size": [
-        "L",
-        "M",
-        "S"
+      "Color": [
+        {
+          "name": "ĐỎ-NÂU",
+          "hex": ""
+        }
       ]
     },
     "sale": {
-      "_id": "57d61c3d3dc2f8100010bf2c",
-      "name": "Trang Phục Thời Trang Adagatti, Mismash, Smash, Paramita",
-      "endDate": "2016-09-25T01:00:00.000Z",
+      "_id": "57dc055ae4dc46120000646d",
+      "name": "Khăn Bông Mềm Mại Mollis",
+      "endDate": "2016-10-04T01:00:00.000Z",
       "POTD": false
     },
-    "images": {
-      "All": [
-        "https://leflair-assets.storage.googleapis.com/57dbb381e4dc4612000056c4.jpg",
-        "https://leflair-assets.storage.googleapis.com/57dbb381e4dc4612000056c2.jpg",
-        "https://leflair-assets.storage.googleapis.com/57dbb381e4dc4612000056c5.jpg",
-        "https://leflair-assets.storage.googleapis.com/57dbb381e4dc4612000056c3.jpg"
-      ]
-    },
-    "materialCare": "Chất liệu: 100% cotton\nBảo quản: Xem hướng dẫn trên mác sản phẩm",
-    "sizeFit": "Người mẫu cao: 177cm\nĐang mặc size: S",
+    "images": [
+
+        "https://leflair-assets.storage.googleapis.com/57eb4eb47bf7890f00db90d1.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d3.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d2.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d4.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d5.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4eca7bf7890f00db90d6.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4eca7bf7890f00db90d7.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ecb7bf7890f00db90d8.jpg",
+        "https://leflair-assets.storage.googleapis.com/57eb4ecb7bf7890f00db90d9.jpg"
+
+    ],
+    "materialCare": "~Thành phần: 100% cotton\n~Hướng dẫn sử dụng: \nCó thể giặt bằng máy giặt\nGiặt ở tối đa 40°C, ủi ở tối đa 100°C\nKhông sử dụng các chất giặt tẩy mạnh",
+    "sizeFit": "~ Kích thước:\nKhăn tắm: 60 x 120 cm\nKhăn mặt: 34 x 78 cm\nKhăn tay: 30 x 48 cm\n~ Khối lượng:\nKhăn tắm: 250g\nKhăn mặt: 95g\nKhăn tay: 52g",
     "variations": [
       {
-        "_quantity": 3,
-        "_id": "57d7b16ec37bc21000cf0b86",
-        "_barcode": "S-S1514129-ONE COLOUR-L",
-        "_retailPrice": 550000,
-        "_salePrice": 269000,
-        "Size": "L"
-      },
-      {
-        "_quantity": 3,
-        "_id": "57d7b16ec37bc21000cf0b87",
-        "_barcode": "S-S1514129-ONE COLOUR-M",
-        "_retailPrice": 550000,
-        "_salePrice": 269000,
-        "Size": "M"
-      },
-      {
-        "_quantity": 1,
-        "_id": "57d7b16ec37bc21000cf0b88",
-        "_barcode": "S-S1514129-ONE COLOUR-S",
-        "_retailPrice": null,
+        "_quantity": 5,
+        "Color": "ĐỎ-NÂU",
         "_salePrice": null,
-        "Size": "S"
+        "_retailPrice": null,
+        "_barcode": "P692-DO/ P692-NA",
+        "_id": "57e241b7eb696d0f00a72f47"
       }
     ],
     "description": {
-      "heading": "Dành cho người phụ nữ hiện đại và phong cách",
-      "secondary": "Xuất xứ: Tây Ban Nha\nNơi sản xuất: Ấn Độ"
+      "heading": "Mềm mại và dịu êm chăm sóc làn da cho cả gia đình bạn",
+      "secondary": "Nơi sản xuất: Việt Nam"
     },
-    "name": "Áo Kiểu Nữ In Hoa Đỏ",
-    "_isReturnable": true,
-    "_attributeGroupBy": null,
-    "sizeTable": {
-      "sizeChart": [
-        {
-          "name": "Size sản phẩm",
-          "_id": "57d7bc5ec37bc21000cf0eb2",
-          "values": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "id": "57d7bc5ec37bc21000cf0eb2"
-        },
-        {
-          "name": "Ngực (cm)",
-          "_id": "57d7bc5ec37bc21000cf0eb1",
-          "values": [
-            "90",
-            "94",
-            "98",
-            "112"
-          ],
-          "id": "57d7bc5ec37bc21000cf0eb1"
-        },
-        {
-          "name": "Eo (cm)",
-          "_id": "57d7bc5ec37bc21000cf0eb0",
-          "values": [
-            "70",
-            "74",
-            "78",
-            "82"
-          ],
-          "id": "57d7bc5ec37bc21000cf0eb0"
-        },
-        {
-          "name": "Hông (cm)",
-          "_id": "57d7bc5ec37bc21000cf0eaf",
-          "values": [
-            "96",
-            "100",
-            "106",
-            "110"
-          ],
-          "id": "57d7bc5ec37bc21000cf0eaf"
-        }
-      ],
-      "values": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ]
-    },
+    "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu  Họa Tiết Vuông",
+    "_isReturnable": false,
+    "_attributeGroupBy": "Color",
     "wishlist": [
       {
         "variation": {
-          "Size": "L"
-        },
-        "wishlistExisted": false
-      },
-      {
-        "variation": {
-          "Size": "M"
-        },
-        "wishlistExisted": false
-      },
-      {
-        "variation": {
-          "Size": "S"
+          "Color": "ĐỎ-NÂU"
         },
         "wishlistExisted": false
       }

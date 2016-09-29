@@ -14,15 +14,13 @@ const SaleItem = React.createClass({
         return (
             <Col className="section-item" xs={12} md={6} onClick={this.props.onClick}>
                 <Link to={url}>
-
-                        <img className="fluid" role="presentation" src={this.props.data.image2.url}/>
-                        <div className="caption">
-                            <h3>{this.props.data.title}
-                                <span className="glyphicon glyphicon-chevron-right small"></span>
-                            </h3>
-                            <p className="text-muted">{formattedDT}</p>
-                        </div>
-
+                    <img className="fluid" role="presentation" src={this.props.data.image2.url}/>
+                    <div className="caption">
+                        <h3>{this.props.data.title}
+                            <span className="glyphicon glyphicon-chevron-right small"></span>
+                        </h3>
+                        <p className="text-muted">{formattedDT}</p>
+                    </div>
                 </Link>
             </Col>
         )

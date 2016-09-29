@@ -1,9 +1,7 @@
 var express = require('express')
 var router = express.Router()
 var data = require('../data/bestsellings.json')
-// var sales = require('../data/sales.json')
-var sales = require('../data/new-sales.json')
-// var filteredSales = require('../data/filteredSales.json')
+var sales = require('../data/sales.json')
 var filteredSales = require('../data/new-filtered-sales.json')
 
 // middleware that is specific to this router

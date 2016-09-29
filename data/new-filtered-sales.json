@@ -1,861 +1,186 @@
 {
   "filterdProducts": [
     {
-      "_id": "57d61c3d3dc2f8100010bf2c",
+      "_id": "57dc055ae4dc46120000646d",
       "_valid": true,
-      "name": "Trang Phục Thời Trang Adagatti, Mismash, Smash, Paramita",
-      "endDate": "2016-09-25T01:00:00.000Z",
-      "startDate": "2016-09-18T01:00:00.000Z",
+      "name": "Khăn Bông Mềm Mại Mollis",
+      "endDate": "2016-10-04T01:00:00.000Z",
+      "startDate": "2016-09-29T01:00:00.000Z",
       "image4": {
-        "_id": "57da6a208c747d0f00ead850",
+        "_id": "57e4d8e3e6775a0f004c2a84",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57da6a208c747d0f00ead850.jpg",
-        "id": "57da6a208c747d0f00ead850"
+        "url": "https://leflair-assets.storage.googleapis.com/57e4d8e3e6775a0f004c2a84.jpg",
+        "id": "57e4d8e3e6775a0f004c2a84"
       },
       "products": [
         {
-          "_id": "57d7b16ec37bc21000cf0b89",
-          "brand": "Paramita",
-          "retailPrice": 550000,
-          "salePrice": 269000,
+          "_id": "57e241b7eb696d0f00a72f48",
+          "brand": "Mollis",
+          "retailPrice": 418000,
+          "salePrice": 379000,
           "type": {
-            "displayName": "Áo Nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Kiểu Nữ In Hoa Đỏ",
-          "quantity": 7,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb381e4dc4612000056c4.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b32",
-          "brand": "Smash!",
-          "retailPrice": 390000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Tank Top Nữ Họa Tiết Màu Xám",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb007e4dc461200005652.jpg",
-          "variation": "BLUE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b56",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 269000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Thun Nữ Tunic",
-          "quantity": 10,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb26be4dc46120000569f.jpg",
-          "variation": "BEIGE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b2c",
-          "brand": "Smash!",
-          "retailPrice": 390000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Thun Nữ In Hoa",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbafdbe4dc46120000564a.jpg",
-          "variation": "WH",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b30",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Tank Top Nữ Mara",
-          "quantity": 7,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaff0e4dc46120000564e.jpg",
-          "variation": "BLUE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b36",
-          "brand": "Smash!",
-          "retailPrice": 390000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Thun Nữ Không Tay Họa Tiết Hoa",
-          "quantity": 6,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb037e4dc461200005661.jpg",
-          "variation": "WH",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b5b",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Kiểu Nữ Coconut Tunic",
-          "quantity": 15,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbebd5e4dc4612000062bc.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b3b",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Thun Nữ Vạt Chéo",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu  Họa Tiết Vuông",
           "quantity": 14,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb08ee4dc461200005666.jpg",
-          "variation": "TURQUOISE",
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4eb47bf7890f00db90d1.jpg",
+          "variation": "ĐỎ-NÂU",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0ac4",
-          "brand": "Smash!",
-          "retailPrice": 890000,
+          "_id": "57e241b7eb696d0f00a72f3c",
+          "brand": "Mollis",
+          "retailPrice": 514000,
           "salePrice": 449000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Kiểu Nữ Tay Bèo",
-          "quantity": 6,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbad72e4dc4612000055ff.jpg",
-          "variation": "BLACK",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
+          "quantity": 19,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb499e7bf7890f00db8f9e.jpg",
+          "variation": "XANH-HỒNG",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a77",
-          "brand": "Ada Gatti",
-          "retailPrice": 690000,
-          "salePrice": 359000,
+          "_id": "57e241b7eb696d0f00a72f3c",
+          "brand": "Mollis",
+          "retailPrice": 514000,
+          "salePrice": 449000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Kiểu Nữ Cổ Chữ V",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba5e39632650f006aff30.jpg",
-          "variation": "BU",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
+          "quantity": 17,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb49387bf7890f00db8f83.jpg",
+          "variation": "XANH-NÂU",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a77",
-          "brand": "Ada Gatti",
-          "retailPrice": 690000,
-          "salePrice": 359000,
+          "_id": "57e241b7eb696d0f00a72f3c",
+          "brand": "Mollis",
+          "retailPrice": 514000,
+          "salePrice": 449000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Kiểu Nữ Cổ Chữ V",
-          "quantity": 4,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba5f99632650f006aff48.jpg",
-          "variation": "PE",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
+          "quantity": 17,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb488daf1edf0f00ff3c79.jpg",
+          "variation": "HỒNG-NÂU",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0b4e",
-          "brand": "Smash!",
-          "retailPrice": 490000,
-          "salePrice": 199000,
+          "_id": "57e241b7eb696d0f00a72f40",
+          "brand": "Mollis",
+          "retailPrice": 519000,
+          "salePrice": 449000,
           "type": {
-            "displayName": "Áo Nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Thun Nữ Cổ Tròn",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb23ae4dc461200005695.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ba6",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Thun Nữ Họa Tiết Cá",
-          "quantity": 13,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb4eae4dc4612000056f5.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ba1",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Thun Nữ Cubo",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb4c7e4dc4612000056f0.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ac1",
-          "brand": "Smash!",
-          "retailPrice": 990000,
-          "salePrice": 399000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Kiểu Nữ Họa Tiết Xanh",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbad36e4dc4612000055f2.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a67",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 369000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Kiểu Nữ Cổ Thêu Họa Tiết",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba5119632650f006aff03.jpg",
-          "variation": "RE",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
+          "quantity": 20,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4adc7bf7890f00db8fc6.jpg",
+          "variation": "ĐỎ-HỒNG",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0ab7",
-          "brand": "Mismash",
-          "retailPrice": 490000,
-          "salePrice": 239000,
+          "_id": "57e241b7eb696d0f00a72f40",
+          "brand": "Mollis",
+          "retailPrice": 519000,
+          "salePrice": 449000,
           "type": {
-            "displayName": "Áo Nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Kiểu Nữ Cổ Thêu",
-          "quantity": 4,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbab8d9632650f006b000f.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b9c",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Thun Nữ Tay Dài In Hình Trái Tim",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb490e4dc4612000056e8.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b98",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Nữ Họa Tiết Hươu",
-          "quantity": 7,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb46ee4dc4612000056e3.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a63",
-          "brand": "Ada Gatti",
-          "retailPrice": 690000,
-          "salePrice": 359000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Sơ Mi Nữ Họa Tiết Trái Tim",
-          "quantity": 14,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba4e99632650f006afeff.jpg",
-          "variation": "RE",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
+          "quantity": 20,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4b4f7bf7890f00db8fe6.jpg",
+          "variation": "ĐỎ-NÂU",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a65",
-          "brand": "Ada Gatti",
-          "retailPrice": 690000,
-          "salePrice": 359000,
+          "_id": "57e241b7eb696d0f00a72f40",
+          "brand": "Mollis",
+          "retailPrice": 519000,
+          "salePrice": 449000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Sơ Mi Nữ Họa Tiết",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba7cd9632650f006aff89.jpg",
-          "variation": "BE",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
+          "quantity": 17,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4b1c7bf7890f00db8fd9.jpg",
+          "variation": "ĐỎ-XANH",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a70",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 419000,
+          "_id": "57e241b7eb696d0f00a72f44",
+          "brand": "Mollis",
+          "retailPrice": 629000,
+          "salePrice": 529000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Sơ Mi Nữ High-Low In Hoa",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba5bf9632650f006aff2c.jpg",
-          "variation": "NV",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
+          "quantity": 17,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4bf87bf7890f00db9006.jpg",
+          "variation": "VE-HỒNG",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a6d",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 419000,
+          "_id": "57e241b7eb696d0f00a72f44",
+          "brand": "Mollis",
+          "retailPrice": 629000,
+          "salePrice": 529000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Sơ Mi Nữ In Hoa",
-          "quantity": 8,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba59b9632650f006aff26.jpg",
-          "variation": "BL",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
+          "quantity": 16,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4c6d7bf7890f00db9026.jpg",
+          "variation": "VE-NÂU",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0a6d",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 419000,
+          "_id": "57e241b7eb696d0f00a72f44",
+          "brand": "Mollis",
+          "retailPrice": 629000,
+          "salePrice": 529000,
           "type": {
-            "displayName": "Áo nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Sơ Mi Nữ In Hoa",
-          "quantity": 7,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba5879632650f006aff22.jpg",
-          "variation": "WH",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
+          "quantity": 16,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4c2b7bf7890f00db9017.jpg",
+          "variation": "VE-XANH",
           "soldOut": false,
           "attributeGroupBy": "Color"
         },
         {
-          "_id": "57d7b16ec37bc21000cf0ab2",
-          "brand": "Mismash",
-          "retailPrice": 990000,
-          "salePrice": 499000,
-          "type": {
-            "displayName": "Áo Nữ"
-          },
-          "name": "Áo Len Nữ Tay Dài",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaa4a9632650f006affed.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a96",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 519000,
-          "type": {
-            "displayName": "Quần áo"
-          },
-          "name": "Áo Khoác Nữ Kiểu Kimono",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba67b9632650f006aff55.jpg",
-          "variation": "WH",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a9a",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 369000,
-          "type": {
-            "displayName": "Quần áo"
-          },
-          "name": "Áo Khoác Kimono Nữ Họa Tiết",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba6ab9632650f006aff68.jpg",
-          "variation": "GY",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a9a",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 369000,
-          "type": {
-            "displayName": "Quần áo"
-          },
-          "name": "Áo Khoác Kimono Nữ Họa Tiết",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba6c59632650f006aff6d.jpg",
-          "variation": "RE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a9a",
-          "brand": "Ada Gatti",
-          "retailPrice": 890000,
-          "salePrice": 369000,
-          "type": {
-            "displayName": "Quần áo"
-          },
-          "name": "Áo Khoác Kimono Nữ Họa Tiết",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba6909632650f006aff5b.jpg",
-          "variation": "GR",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0a9f",
-          "brand": "Mismash",
-          "retailPrice": 1100000,
+          "_id": "57e241b7eb696d0f00a72f46",
+          "brand": "Mollis",
+          "retailPrice": 634000,
           "salePrice": 539000,
           "type": {
-            "displayName": "Áo Nữ"
+            "displayName": "Khăn"
           },
-          "name": "Áo Cardigan Nữ",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb435e4dc4612000056de.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ac6",
-          "brand": "Smash!",
-          "retailPrice": 690000,
-          "salePrice": 369000,
-          "type": {
-            "displayName": "Áo nữ"
-          },
-          "name": "Áo Khoác Nữ",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbad94e4dc461200005602.jpg",
-          "variation": "BEIGE",
+          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá",
+          "quantity": 18,
+          "image": "https://leflair-assets.storage.googleapis.com/57eb4d087bf7890f00db903f.jpg",
+          "variation": "ĐỎ-VE",
           "soldOut": false,
           "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b14",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Short Nữ Họa Tiết",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbadcee4dc461200005610.jpg",
-          "variation": "BEIGE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b12",
-          "brand": "Smash!",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Short Nữ",
-          "quantity": 13,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbadade4dc46120000560c.jpg",
-          "variation": "NAVY",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b4a",
-          "brand": "Smash!",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Lửng Nữ",
-          "quantity": 4,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb1ace4dc461200005689.jpg",
-          "variation": "NAVY",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b47",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Dài Nữ Lưng Thun",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb10ee4dc46120000567c.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b47",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Dài Nữ Lưng Thun",
-          "quantity": 4,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb0efe4dc461200005678.jpg",
-          "variation": "ARMY",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b47",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Dài Nữ Lưng Thun",
-          "quantity": 4,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb127e4dc461200005681.jpg",
-          "variation": "BLUE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b8e",
-          "brand": "Paramita",
-          "retailPrice": 850000,
-          "salePrice": 399000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Quần Dài Nữ Họa Tiết Hoa",
-          "quantity": 7,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb3b3e4dc4612000056cf.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b92",
-          "brand": "Paramita",
-          "retailPrice": 790000,
-          "salePrice": 399000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Quần Dài Nữ Ovillo",
-          "quantity": 15,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb3eae4dc4612000056d4.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b3e",
-          "brand": "Smash!",
-          "retailPrice": 1290000,
-          "salePrice": 399000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Quần Dài Nữ Túi Viền Kim Tuyến",
-          "quantity": 14,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb0aee4dc46120000566c.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b4c",
-          "brand": "Smash!",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Quần Dài Nữ Lưng Thun Họa Tiết",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb1f0e4dc461200005692.jpg",
-          "variation": "WH",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b41",
-          "brand": "Smash!",
-          "retailPrice": 1190000,
-          "salePrice": 419000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Quần Dài Nữ Họa Tiết Sắc Màu",
-          "quantity": 8,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb0cae4dc46120000566f.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b7c",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Chân Váy Nữ Họa Tiết Vàng",
-          "quantity": 15,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb2cae4dc4612000056ab.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b19",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 239000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Chân Váy Nữ Họa Tiết Đen Trắng",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbae20e4dc461200005620.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b82",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Chân Váy Nữ Họa Tiết Hoa",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb350e4dc4612000056b5.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b85",
-          "brand": "Paramita",
-          "retailPrice": 490000,
-          "salePrice": 249000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Chân Váy Nữ Cueto Họa Tiết",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbb367e4dc4612000056be.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b17",
-          "brand": "Smash!",
-          "retailPrice": 690000,
-          "salePrice": 349000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Chữ A Nữ Họa Tiết Hoa",
-          "quantity": 11,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbadf2e4dc461200005616.jpg",
-          "variation": "LIGHT BLUE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b20",
-          "brand": "Smash!",
-          "retailPrice": 390000,
-          "salePrice": 199000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Nữ In Hoa và Họa Tiết",
-          "quantity": 2,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaea2e4dc461200005631.jpg",
-          "variation": "BLUE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b1d",
-          "brand": "Smash!",
-          "retailPrice": 690000,
-          "salePrice": 349000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Nữ In Hoa Trắng Đen",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbae88e4dc46120000562d.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ab9",
-          "brand": "Mismash",
-          "retailPrice": 490000,
-          "salePrice": 239000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Nữ Hai Lớp",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbabfd9632650f006b0016.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b1b",
-          "brand": "Smash!",
-          "retailPrice": 690000,
-          "salePrice": 349000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Xòe Nữ Lưng Thun",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbae45e4dc461200005626.jpg",
-          "variation": "BLACK",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0abc",
-          "brand": "Mismash",
-          "retailPrice": 490000,
-          "salePrice": 239000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Nữ Phối Ren",
-          "quantity": 1,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbacbbe4dc4612000055d4.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b2a",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Midi Nữ",
-          "quantity": 3,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaf0de4dc46120000563e.jpg",
-          "variation": "BL",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b2a",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Midi Nữ",
-          "quantity": 6,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaf30e4dc461200005643.jpg",
-          "variation": "BR",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0b2a",
-          "brand": "Smash!",
-          "retailPrice": 590000,
-          "salePrice": 299000,
-          "type": {
-            "displayName": "Quần váy nữ"
-          },
-          "name": "Chân Váy Midi Nữ",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dbaf46e4dc461200005646.jpg",
-          "variation": "RED",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57d7b16ec37bc21000cf0ab0",
-          "brand": "Mismash",
-          "retailPrice": 650000,
-          "salePrice": 399000,
-          "type": {
-            "displayName": "Quần, váy nữ"
-          },
-          "name": "Chân Váy Midi Nữ In Hoa",
-          "quantity": 5,
-          "image": "https://leflair-assets.storage.googleapis.com/57dba9bc9632650f006affce.jpg",
-          "variation": null,
-          "soldOut": false,
-          "attributeGroupBy": null
         }
       ],
       "_validUpcoming": false,
-      "id": "57d61c3d3dc2f8100010bf2c"
+      "id": "57dc055ae4dc46120000646d"
     },
     {
       "_id": "57c81081d87cc30f008a5913",

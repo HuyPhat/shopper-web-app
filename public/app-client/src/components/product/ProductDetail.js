@@ -5,6 +5,7 @@ import React from 'react'
 import {Grid, Row, Col, Breadcrumb} from 'react-bootstrap'
 import $ from "jquery"
 import '../../css/ProductDetail.css'
+import ProductImageSlider from '../product/ProductImageSlider';
 
 const ProductDetail = React.createClass({
     requestData() {
@@ -55,7 +56,9 @@ const ProductDetail = React.createClass({
                     </Row>
                     <Row>
                         <Col sm={7}>
-                            <div className="product-image-wrapper"></div>
+                            <div className="product-image-wrapper">
+                                <ProductImageSlider images={this.state.product.images} />
+                            </div>
                             <div className="apart-big apart-no-bottom hidden-xs">
                                 <img className="brand-logo" src={this.state.product.brand.logo}/>
                                 <h5>"{this.state.product.description.heading}"</h5>

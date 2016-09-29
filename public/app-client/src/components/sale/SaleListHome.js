@@ -10,7 +10,8 @@ import '../../css/Current.css'
 const SaleListHome = React.createClass({
     getInitialState() {
         return {
-            current: []
+            current: [],
+            featured: {}
         };
     },
     componentDidMount() {
@@ -20,7 +21,7 @@ const SaleListHome = React.createClass({
             cache: false,
             success: function (data) {
                 this.setState({current: data.current});
-                console.log(this.state.data);
+                this.setState({featured: data.featured});
             }.bind(this),
             error: function (xhr, status, err) {
                 console.error("http://localhost:4000/api/v1/sales/", status, err.toString());
@@ -28,10 +29,17 @@ const SaleListHome = React.createClass({
         });
     },
     render() {
+        console.log(this.state.featured);
+        const imgSrc = this.state.featured.image1 ? this.state.featured.image1.url : "";
         return (
             <Grid>
                 <Row>
-                    <Col lg={12} className="text-center"><h3>Today's Sales</h3></Col>
+                    <a className="image-link" href={"/sales/" + this.state.featured.id}>
+                        <img className="fluid category-hero" src={imgSrc}/>
+                    </a>
+                </Row>
+                <Row>
+                    <Col lg={12} className="text-center"><h3>Shop Today's Sales</h3></Col>
                 </Row>
                 <Row>
                     {this.state.current.map(function (current, i) {

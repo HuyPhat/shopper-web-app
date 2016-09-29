@@ -34,6 +34,9 @@
     color: #5D5C5D;
     font-weight: 300; }
 
+.sell-container .category-hero {
+  margin-top: 60px; }
+
 .App-body .custom-breadcrumb {
   text-align: left;
   margin-top: 20px; }
