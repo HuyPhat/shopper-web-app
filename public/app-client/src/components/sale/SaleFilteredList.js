@@ -6,8 +6,7 @@ import {Grid, Row, Col, Breadcrumb} from 'react-bootstrap'
 import $ from "jquery"
 import ProductItem from '../product/ProductItem'
 import ProductImage from '../product/ProductImage'
-// import Breadcrumbs from '../product/Breadcrumb'<Breadcrumbs name={this.state.filteredSales.name}/>
-import '../../css/Current.css'
+import '../../css/SaleFilteredList.css'
 
 const SaleList = React.createClass({
     getInitialState() {
@@ -41,17 +40,34 @@ const SaleList = React.createClass({
             </Breadcrumb>
         );
         return (
-            <Grid>
-                <Row><ProductImage url={this.state.url}/></Row>
-                <Row>{breadcrumbInstance}</Row>
-                <Row>
-                    {this.state.products.map(function (product, i) {
-                        return (
-                            <ProductItem data={product}/>
-                        )
-                    }, this)}
-                </Row>
-            </Grid>
+            <section className="product-list-section">
+                <section>
+                    <ProductImage url={this.state.url}/>
+                </section>
+                <section>
+                    <Grid className="product-list-header-container">
+                        <Row>
+                            <Col lg={12}>
+                                {breadcrumbInstance}
+                                <div className="sale-closing-time">
+                                    <div className="closing-time">
+                                        <span className="glyphicon glyphicon-time"/> CLOSING IN 6 DAYS
+                                    </div>
+                                </div>
+                            </Col>
+                        </Row>
+                    </Grid>
+                    <Grid>
+                        <Row>
+                            {this.state.products.map(function (product, i) {
+                                return (
+                                    <ProductItem data={product}/>
+                                )
+                            }, this)}
+                        </Row>
+                    </Grid>
+                </section>
+            </section>
         )
     }
 });

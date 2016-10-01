@@ -1,16 +1,43 @@
 import React from 'react'
 import {Navbar, Nav, NavItem, NavDropdown, MenuItem} from 'react-bootstrap'
-import logo from './logo.svg'
+import $ from 'jquery'
+import logo from './resource/logo.png'
 import './css/App.css'
 
 const App = React.createClass({
-
+    getInitialState() {
+        return {
+            'shadow': 'none'
+        }
+    },
+    componentDidMount() {
+        window.addEventListener('scroll', this.handleScroll);
+    },
+    componentWillUnmount() {
+        window.removeEventListener('scroll', this.handleScroll);
+    },
+    handleScroll: function(event) {
+        // if(($(document).scrollTop() + $(window).height() / 2) > ($('body').height() / 2)){
+        if($(document).scrollTop()){
+            this.setState({
+                'shadow': 'inset 0 1px 0 rgba(255, 255, 255, .15), 0 3px 5px rgba(0, 0, 0, .075)'
+            });
+        }else{
+            this.setState({
+                'shadow': 'none'
+            });
+        }
+        // this.setState({
+        //     'shadow': 'inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075)'
+        // });
+    },
     render() {
+        var style = {'box-shadow': this.state.shadow}
         const navbarInstance = (
-            <Navbar className="navbar-fixed-top">
+            <Navbar style={style} className="navbar-fixed-top">
                 <Navbar.Header>
                   <Navbar.Brand>
-                    <a href="/sales">iShopping</a>
+                    <a href="/sales"><img src={logo}/></a>
                   </Navbar.Brand>
                   <Navbar.Toggle />
                 </Navbar.Header>

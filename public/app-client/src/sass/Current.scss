@@ -40,13 +40,27 @@
     }
   }
   .category-hero {
-    margin-top:60px;
+    //margin-top:60px;
   }
 }
 
 .App-body {
   .custom-breadcrumb {
+    background-color: #fff;
+    padding: 40px 0 20px;
+    margin: 0;
+    font-size: 14px;
     text-align: left;
-    margin-top: 20px;
+    li {
+      a {
+        color: #16accf;
+        font-weight: 600;
+      }
+    }
+    li.active {
+      color: #5d5c5d;
+      font-style: italic;
+      font-weight: 300;
+    }
   }
 }

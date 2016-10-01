@@ -1,186 +1,636 @@
 {
   "filterdProducts": [
     {
-      "_id": "57dc055ae4dc46120000646d",
+      "_id": "57e373507527da1000bbd78b",
       "_valid": true,
-      "name": "Khăn Bông Mềm Mại Mollis",
-      "endDate": "2016-10-04T01:00:00.000Z",
-      "startDate": "2016-09-29T01:00:00.000Z",
+      "name": "Bông Tai Yeno",
+      "endDate": "2016-10-08T01:00:00.000Z",
+      "startDate": "2016-10-01T01:00:00.000Z",
       "image4": {
-        "_id": "57e4d8e3e6775a0f004c2a84",
+        "_id": "57e9f002c2a7b30f0090796e",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e4d8e3e6775a0f004c2a84.jpg",
-        "id": "57e4d8e3e6775a0f004c2a84"
+        "url": "https://leflair-assets.storage.googleapis.com/57e9f002c2a7b30f0090796e.jpg",
+        "id": "57e9f002c2a7b30f0090796e"
       },
       "products": [
         {
-          "_id": "57e241b7eb696d0f00a72f48",
-          "brand": "Mollis",
-          "retailPrice": 418000,
-          "salePrice": 379000,
+          "_id": "57e389ef43a317100065bf0a",
+          "brand": "YENO",
+          "retailPrice": 415000,
+          "salePrice": 329000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu  Họa Tiết Vuông",
-          "quantity": 14,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4eb47bf7890f00db90d1.jpg",
-          "variation": "ĐỎ-NÂU",
+          "name": "Bông Tai Đính Đá Đỏ",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1e4f568af70f0047a77f.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f3c",
-          "brand": "Mollis",
-          "retailPrice": 514000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065bef6",
+          "brand": "YENO",
+          "retailPrice": 960000,
+          "salePrice": 629000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
-          "quantity": 19,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb499e7bf7890f00db8f9e.jpg",
-          "variation": "XANH-HỒNG",
+          "name": "Bông Tai Đính Đá Hình Nơ",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d32568af70f0047a75c.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f3c",
-          "brand": "Mollis",
-          "retailPrice": 514000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065bf08",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
-          "quantity": 17,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb49387bf7890f00db8f83.jpg",
-          "variation": "XANH-NÂU",
+          "name": "Bông Tai Hình Cỏ 4 Lá",
+          "quantity": 1,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1e3b568af70f0047a77d.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f3c",
-          "brand": "Mollis",
-          "retailPrice": 514000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065bef4",
+          "brand": "YENO",
+          "retailPrice": 615000,
+          "salePrice": 429000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Tay, Khăn Mặt Họa Tiết Biển",
-          "quantity": 17,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb488daf1edf0f00ff3c79.jpg",
-          "variation": "HỒNG-NÂU",
+          "name": "Bông Tai Hình Hoa",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d1c568af70f0047a758.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f40",
-          "brand": "Mollis",
-          "retailPrice": 519000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065bf14",
+          "brand": "YENO",
+          "retailPrice": 545000,
+          "salePrice": 409000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
-          "quantity": 20,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4adc7bf7890f00db8fc6.jpg",
-          "variation": "ĐỎ-HỒNG",
+          "name": "Bông Tai Đính Đá Hình Tròn",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ee2568af70f0047a7a4.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f40",
-          "brand": "Mollis",
-          "retailPrice": 519000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065befc",
+          "brand": "YENO",
+          "retailPrice": 695000,
+          "salePrice": 479000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
-          "quantity": 20,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4b4f7bf7890f00db8fe6.jpg",
-          "variation": "ĐỎ-NÂU",
+          "name": "Bông Tai Hình Hộp Quà",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d6b568af70f0047a763.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f40",
-          "brand": "Mollis",
-          "retailPrice": 519000,
-          "salePrice": 449000,
+          "_id": "57e389ef43a317100065befa",
+          "brand": "YENO",
+          "retailPrice": 695000,
+          "salePrice": 479000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Họa Tiết Sóng - Biển",
-          "quantity": 17,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4b1c7bf7890f00db8fd9.jpg",
-          "variation": "ĐỎ-XANH",
+          "name": "Bông Tai Hình Tam Giác Đính Đá",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d59568af70f0047a760.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f44",
-          "brand": "Mollis",
-          "retailPrice": 629000,
+          "_id": "57e389ef43a317100065bf00",
+          "brand": "YENO",
+          "retailPrice": 545000,
+          "salePrice": 389000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Tam Giác Lệch Đính Đá",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d9c568af70f0047a769.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bef8",
+          "brand": "YENO",
+          "retailPrice": 545000,
+          "salePrice": 389000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Hoa, Tam Giác, Hình Tròn",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d46568af70f0047a75e.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf10",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Nữ Hình Chữ C",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1eb3568af70f0047a79b.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf12",
+          "brand": "YENO",
+          "retailPrice": 615000,
+          "salePrice": 429000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Trái Tim Đính Đá Một Nửa",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ece568af70f0047a7a0.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf0e",
+          "brand": "YENO",
+          "retailPrice": 415000,
+          "salePrice": 329000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Trái Tim",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1e9b568af70f0047a795.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf0c",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Trái Tim Nhỏ",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1e7c568af70f0047a78f.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf02",
+          "brand": "YENO",
+          "retailPrice": 695000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Giọt Nước Đính Lá",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1dcf568af70f0047a772.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bed4",
+          "brand": "YENO",
+          "retailPrice": 1220000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Học",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b43568af70f0047a713.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf1c",
+          "brand": "YENO",
+          "retailPrice": 345000,
+          "salePrice": 269000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Chữ Nhật Nhỏ",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1f35568af70f0047a7d1.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf06",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Chìa Khóa",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1dfb568af70f0047a77a.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bee0",
+          "brand": "YENO",
+          "retailPrice": 2010000,
+          "salePrice": 1229000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Chuỗi Giọt Nước",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ac6568af70f0047a6f6.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf1a",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hoa Năm Cánh",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1f25568af70f0047a7ce.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf16",
+          "brand": "YENO",
+          "retailPrice": 485000,
+          "salePrice": 359000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Ngọc Trai",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ef5568af70f0047a7a7.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065becc",
+          "brand": "YENO",
+          "retailPrice": 1608000,
+          "salePrice": 1099000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Giọt Nước Đá Đỏ",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1a5e568af70f0047a6e9.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065beda",
+          "brand": "YENO",
+          "retailPrice": 1645000,
+          "salePrice": 1099000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Giọt Nước",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1a85568af70f0047a6ec.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bed2",
+          "brand": "YENO",
+          "retailPrice": 1645000,
+          "salePrice": 1099000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Trái Tim",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1a74568af70f0047a6eb.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bee8",
+          "brand": "YENO",
+          "retailPrice": 1380000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Vuông",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1be8568af70f0047a72b.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bee4",
+          "brand": "YENO",
+          "retailPrice": 2645000,
+          "salePrice": 1699000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Vuông Đá Xanh - Trắng",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ae0568af70f0047a6fd.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bf04",
+          "brand": "YENO",
+          "retailPrice": 1180000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Chi Tiết Thắt Chéo Đính Đá",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1deb568af70f0047a775.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bee2",
+          "brand": "YENO",
+          "retailPrice": 1450000,
+          "salePrice": 879000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Oval",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1bd1568af70f0047a726.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bee6",
+          "brand": "YENO",
+          "retailPrice": 1580000,
+          "salePrice": 1029000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đính Đá Xanh Lục",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1aa4568af70f0047a6ee.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bed6",
+          "brand": "YENO",
+          "retailPrice": 1830000,
+          "salePrice": 1129000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đính Đá Hình Vuông",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1ab8568af70f0047a6f0.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bece",
+          "brand": "YENO",
+          "retailPrice": 695000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đá Hình Tròn",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b1e568af70f0047a708.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bed0",
+          "brand": "YENO",
+          "retailPrice": 615000,
+          "salePrice": 429000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Chữ C Đính Đá",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b31568af70f0047a709.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bede",
+          "brand": "YENO",
+          "retailPrice": 1180000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Đính Đá Hình Chữ Nhật",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b8e568af70f0047a721.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065befe",
+          "brand": "YENO",
+          "retailPrice": 695000,
+          "salePrice": 479000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Đuôi Công",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d87568af70f0047a768.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bedc",
+          "brand": "YENO",
+          "retailPrice": 1180000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Lá Đính Ngọc Trai",
+          "quantity": 1,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b7a568af70f0047a71d.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bed8",
+          "brand": "YENO",
+          "retailPrice": 1180000,
+          "salePrice": 789000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Họa Tiết Lá Đính Đá Vuông",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1b5f568af70f0047a715.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065beea",
+          "brand": "YENO",
+          "retailPrice": 615000,
+          "salePrice": 429000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Chuỗi Đá Hình Vòng Cung",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1c06568af70f0047a72d.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bef0",
+          "brand": "YENO",
+          "retailPrice": 875000,
+          "salePrice": 609000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Cầu Đính Đá",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1cf2568af70f0047a754.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065beee",
+          "brand": "YENO",
+          "retailPrice": 615000,
+          "salePrice": 489000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Họa Tiết Hoa",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1c9d568af70f0047a746.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065beec",
+          "brand": "YENO",
+          "retailPrice": 1045000,
+          "salePrice": 679000,
+          "type": {
+            "displayName": "Trang sức"
+          },
+          "name": "Bông Tai Hình Móc",
+          "quantity": 2,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1c80568af70f0047a740.jpg",
+          "variation": null,
+          "soldOut": false,
+          "attributeGroupBy": null
+        },
+        {
+          "_id": "57e389ef43a317100065bef2",
+          "brand": "YENO",
+          "retailPrice": 765000,
           "salePrice": 529000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
-          "quantity": 17,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4bf87bf7890f00db9006.jpg",
-          "variation": "VE-HỒNG",
+          "name": "Bông Tai Hình Sóng",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1d04568af70f0047a757.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         },
         {
-          "_id": "57e241b7eb696d0f00a72f44",
-          "brand": "Mollis",
-          "retailPrice": 629000,
-          "salePrice": 529000,
+          "_id": "57e389ef43a317100065bf18",
+          "brand": "YENO",
+          "retailPrice": 545000,
+          "salePrice": 409000,
           "type": {
-            "displayName": "Khăn"
+            "displayName": "Trang sức"
           },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
-          "quantity": 16,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4c6d7bf7890f00db9026.jpg",
-          "variation": "VE-NÂU",
+          "name": "Bông Tai Chuỗi Giọt Nước Nhỏ",
+          "quantity": 3,
+          "image": "https://leflair-assets.storage.googleapis.com/57ee1f07568af70f0047a7c9.jpg",
+          "variation": null,
           "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57e241b7eb696d0f00a72f44",
-          "brand": "Mollis",
-          "retailPrice": 629000,
-          "salePrice": 529000,
-          "type": {
-            "displayName": "Khăn"
-          },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá - Biển",
-          "quantity": 16,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4c2b7bf7890f00db9017.jpg",
-          "variation": "VE-XANH",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
-        },
-        {
-          "_id": "57e241b7eb696d0f00a72f46",
-          "brand": "Mollis",
-          "retailPrice": 634000,
-          "salePrice": 539000,
-          "type": {
-            "displayName": "Khăn"
-          },
-          "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu Hoa Lá",
-          "quantity": 18,
-          "image": "https://leflair-assets.storage.googleapis.com/57eb4d087bf7890f00db903f.jpg",
-          "variation": "ĐỎ-VE",
-          "soldOut": false,
-          "attributeGroupBy": "Color"
+          "attributeGroupBy": null
         }
       ],
       "_validUpcoming": false,
-      "id": "57dc055ae4dc46120000646d"
+      "id": "57e373507527da1000bbd78b"
     },
     {
       "_id": "57c81081d87cc30f008a5913",

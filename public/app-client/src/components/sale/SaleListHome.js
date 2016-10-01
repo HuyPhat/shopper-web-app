@@ -32,23 +32,27 @@ const SaleListHome = React.createClass({
         console.log(this.state.featured);
         const imgSrc = this.state.featured.image1 ? this.state.featured.image1.url : "";
         return (
-            <Grid>
-                <Row>
+            <section>
+                <section>
                     <a className="image-link" href={"/sales/" + this.state.featured.id}>
                         <img className="fluid category-hero" src={imgSrc}/>
                     </a>
-                </Row>
-                <Row>
-                    <Col lg={12} className="text-center"><h3>Shop Today's Sales</h3></Col>
-                </Row>
-                <Row>
-                    {this.state.current.map(function (current, i) {
-                        return (
-                            <SaleItem key={current._id} data={current}/>
-                        )
-                    }, this)}
-                </Row>
-            </Grid>
+                </section>
+                <section>
+                    <Grid>
+                        <Row>
+                            <Col lg={12} className="text-center"><h3>Shop Today's Sales</h3></Col>
+                        </Row>
+                        <Row>
+                            {this.state.current.map(function (current, i) {
+                                return (
+                                    <SaleItem key={current._id} data={current}/>
+                                )
+                            }, this)}
+                        </Row>
+                    </Grid>
+                </section>
+            </section>
         )
     }
 });

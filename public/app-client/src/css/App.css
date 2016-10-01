@@ -39,7 +39,21 @@ body {
 
 .App-body {
   font-size: 100%;
-  padding-top: 4em;
+  /*padding-top: 4em;*/
+}
+
+.navbar {
+  /*border: none;*/
+}
+
+.navbar-brand > img {
+  margin-top: -6px;
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  background-image: none;
+  box-shadow: none;
 }
 
 @keyframes App-logo-spin {

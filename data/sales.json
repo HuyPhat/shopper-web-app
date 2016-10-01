@@ -23,27 +23,246 @@
   },
   "current": [
     {
-      "_id": "57e8a498e6775a0f004c4fc0",
-      "POTD": true,
+      "_id": "57e373507527da1000bbd78b",
+      "POTD": false,
       "featured": false,
-      "name": "Áo Choàng Tắm Mollis",
-      "endDate": "2016-09-30T01:00:00.000Z",
+      "name": "Bông Tai Yeno",
+      "endDate": "2016-10-08T01:00:00.000Z",
       "image1": {
-        "_id": "57ea1b1a4263af0f00ebe456",
+        "_id": "57e9efedc2a7b30f0090796a",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ea1b1a4263af0f00ebe456.jpg",
-        "id": "57ea1b1a4263af0f00ebe456"
+        "url": "https://leflair-assets.storage.googleapis.com/57e9efedc2a7b30f0090796a.jpg",
+        "id": "57e9efedc2a7b30f0090796a"
       },
       "image2": {
-        "_id": "57ea1b1a4263af0f00ebe457",
+        "_id": "57e9eff4c2a7b30f0090796b",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ea1b1a4263af0f00ebe457.jpg",
-        "id": "57ea1b1a4263af0f00ebe457"
+        "url": "https://leflair-assets.storage.googleapis.com/57e9eff4c2a7b30f0090796b.jpg",
+        "id": "57e9eff4c2a7b30f0090796b"
       },
-      "title": "Áo Choàng Tắm Mollis",
-      "POTDId": "57ea4407af1edf0f00ff337b",
+      "title": "Bông Tai Yeno",
       "_validUpcoming": false,
-      "id": "57e8a498e6775a0f004c4fc0"
+      "id": "57e373507527da1000bbd78b"
+    },
+    {
+      "_id": "57dc05b0e4dc461200006470",
+      "POTD": false,
+      "featured": false,
+      "name": "Túi Xách Paris Hilton",
+      "endDate": "2016-10-08T01:00:00.000Z",
+      "image1": {
+        "_id": "57ea5078af1edf0f00ff34b4",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea5078af1edf0f00ff34b4.jpg",
+        "id": "57ea5078af1edf0f00ff34b4"
+      },
+      "image2": {
+        "_id": "57ea507daf1edf0f00ff34b5",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea507daf1edf0f00ff34b5.jpg",
+        "id": "57ea507daf1edf0f00ff34b5"
+      },
+      "title": "Túi Xách Paris Hilton",
+      "_validUpcoming": false,
+      "id": "57dc05b0e4dc461200006470"
+    },
+    {
+      "_id": "57dc0597e4dc46120000646f",
+      "POTD": false,
+      "featured": false,
+      "name": "Đồng Hồ Thời Trang Paris Hilton",
+      "endDate": "2016-10-08T01:00:00.000Z",
+      "image1": {
+        "_id": "57edd34bd601991000793dcd",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57edd34bd601991000793dcd.jpg",
+        "id": "57edd34bd601991000793dcd"
+      },
+      "image2": {
+        "_id": "57edd34fd601991000793dce",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57edd34fd601991000793dce.jpg",
+        "id": "57edd34fd601991000793dce"
+      },
+      "title": "Đồng Hồ Thời Trang Paris Hilton",
+      "_validUpcoming": false,
+      "id": "57dc0597e4dc46120000646f"
+    },
+    {
+      "_id": "57dbffa5e4dc461200006448",
+      "POTD": false,
+      "featured": false,
+      "name": "Balo và Túi Xách Thời Trang Solo",
+      "endDate": "2016-10-08T01:00:00.000Z",
+      "image1": {
+        "_id": "57ea1b934263af0f00ebe463",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea1b934263af0f00ebe463.jpg",
+        "id": "57ea1b934263af0f00ebe463"
+      },
+      "image2": {
+        "_id": "57eec629568af70f0047b23c",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57eec629568af70f0047b23c.jpg",
+        "id": "57eec629568af70f0047b23c"
+      },
+      "title": "Balo và Túi Xách Thời Trang Solo",
+      "_validUpcoming": false,
+      "id": "57dbffa5e4dc461200006448"
+    },
+    {
+      "_id": "57dbfaade4dc46120000637a",
+      "POTD": false,
+      "featured": false,
+      "name": "Áo Sơ Mi Nam Valentino Creations",
+      "endDate": "2016-10-08T01:00:00.000Z",
+      "image1": {
+        "_id": "57e26c319773a7100095c3f0",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57e26c319773a7100095c3f0.jpg",
+        "id": "57e26c319773a7100095c3f0"
+      },
+      "image2": {
+        "_id": "57e26c369773a7100095c3f1",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57e26c369773a7100095c3f1.jpg",
+        "id": "57e26c369773a7100095c3f1"
+      },
+      "title": "Áo Sơ Mi Nam Valentino Creations",
+      "_validUpcoming": false,
+      "id": "57dbfaade4dc46120000637a"
+    },
+    {
+      "_id": "57e5381be6775a0f004c3796",
+      "POTD": false,
+      "featured": false,
+      "name": "Kính Mát Polaroid Dành Cho Các Bé",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57ea483daf1edf0f00ff3437",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea483daf1edf0f00ff3437.jpg",
+        "id": "57ea483daf1edf0f00ff3437"
+      },
+      "image2": {
+        "_id": "57ea483eaf1edf0f00ff3438",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea483eaf1edf0f00ff3438.jpg",
+        "id": "57ea483eaf1edf0f00ff3438"
+      },
+      "title": "Kính Mát Polaroid Dành Cho Các Bé",
+      "_validUpcoming": false,
+      "id": "57e5381be6775a0f004c3796"
+    },
+    {
+      "_id": "57e373137527da1000bbd78a",
+      "POTD": false,
+      "featured": false,
+      "name": "Đồng Hồ Jazma Dành Cho Các Chàng",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57ec84387bf7890f00dba06e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ec84387bf7890f00dba06e.jpg",
+        "id": "57ec84387bf7890f00dba06e"
+      },
+      "image2": {
+        "_id": "57ec84417bf7890f00dba070",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ec84417bf7890f00dba070.jpg",
+        "id": "57ec84417bf7890f00dba070"
+      },
+      "title": "Đồng Hồ Jazma Dành Cho Các Chàng",
+      "_validUpcoming": false,
+      "id": "57e373137527da1000bbd78a"
+    },
+    {
+      "_id": "57e373007527da1000bbd789",
+      "POTD": false,
+      "featured": false,
+      "name": "Đồng Hồ Jazma Dành Cho Các Nàng",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57ec805c7bf7890f00db9fff",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ec805c7bf7890f00db9fff.jpg",
+        "id": "57ec805c7bf7890f00db9fff"
+      },
+      "image2": {
+        "_id": "57ec80607bf7890f00dba000",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ec80607bf7890f00dba000.jpg",
+        "id": "57ec80607bf7890f00dba000"
+      },
+      "title": "Đồng Hồ Jazma Dành Cho Các Nàng",
+      "_validUpcoming": false,
+      "id": "57e373007527da1000bbd789"
+    },
+    {
+      "_id": "57dfd1f4c745c410009ea2f3",
+      "POTD": false,
+      "featured": false,
+      "name": "Giày Moonstar Cho Các Bé",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57eb62ee7bf7890f00db91ae",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57eb62ee7bf7890f00db91ae.jpg",
+        "id": "57eb62ee7bf7890f00db91ae"
+      },
+      "image2": {
+        "_id": "57eca8e87bf7890f00dbad9e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57eca8e87bf7890f00dbad9e.jpg",
+        "id": "57eca8e87bf7890f00dbad9e"
+      },
+      "title": "Giày Moonstar Cho Các Bé",
+      "_validUpcoming": false,
+      "id": "57dfd1f4c745c410009ea2f3"
+    },
+    {
+      "_id": "57dc0506e4dc461200006469",
+      "POTD": false,
+      "featured": true,
+      "name": "Vòng Cổ Yeno",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57edd5afd601991000793f09",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57edd5afd601991000793f09.jpg",
+        "id": "57edd5afd601991000793f09"
+      },
+      "image2": {
+        "_id": "57edd5bcd601991000793f0a",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57edd5bcd601991000793f0a.jpg",
+        "id": "57edd5bcd601991000793f0a"
+      },
+      "title": "Vòng Cổ Yeno",
+      "_validUpcoming": false,
+      "id": "57dc0506e4dc461200006469"
+    },
+    {
+      "_id": "57dc0481e4dc461200006467",
+      "POTD": false,
+      "featured": false,
+      "name": "Sản Phẩm Trang Điểm E'zup và Isa Knox",
+      "endDate": "2016-10-07T01:00:00.000Z",
+      "image1": {
+        "_id": "57e35c489773a7100095cb7d",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57e35c489773a7100095cb7d.jpg",
+        "id": "57e35c489773a7100095cb7d"
+      },
+      "image2": {
+        "_id": "57e35c4f9773a7100095cb7e",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57e35c4f9773a7100095cb7e.jpg",
+        "id": "57e35c4f9773a7100095cb7e"
+      },
+      "title": "Sản Phẩm Trang Điểm E'zup và Isa Knox",
+      "_validUpcoming": false,
+      "id": "57dc0481e4dc461200006467"
     },
     {
       "_id": "57dc055ae4dc46120000646d",
@@ -134,6 +353,28 @@
       "id": "57dbfbc8e4dc4612000063d4"
     },
     {
+      "_id": "57c902e8d87cc30f008a5a11",
+      "POTD": false,
+      "featured": true,
+      "name": "Đồng Hồ Thời Trang Marc by Marc Jacbos",
+      "endDate": "2016-10-06T01:00:00.000Z",
+      "image1": {
+        "_id": "57ea37d315e7080f00a788a2",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea37d315e7080f00a788a2.jpg",
+        "id": "57ea37d315e7080f00a788a2"
+      },
+      "image2": {
+        "_id": "57ea37df15e7080f00a788a6",
+        "fileType": "jpg",
+        "url": "https://leflair-assets.storage.googleapis.com/57ea37df15e7080f00a788a6.jpg",
+        "id": "57ea37df15e7080f00a788a6"
+      },
+      "title": "Đồng Hồ Thời Trang Marc by Marc Jacbos",
+      "_validUpcoming": false,
+      "id": "57c902e8d87cc30f008a5a11"
+    },
+    {
       "_id": "57ea499aaf1edf0f00ff3450",
       "POTD": false,
       "featured": false,
@@ -200,28 +441,6 @@
       "id": "57e371447527da1000bbd787"
     },
     {
-      "_id": "57dc039fe4dc461200006463",
-      "POTD": false,
-      "featured": false,
-      "name": "Sản Phẩm Trang Điểm Flormar",
-      "endDate": "2016-10-05T01:00:00.000Z",
-      "image1": {
-        "_id": "57e8db43c2a7b30f00906dc6",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e8db43c2a7b30f00906dc6.jpg",
-        "id": "57e8db43c2a7b30f00906dc6"
-      },
-      "image2": {
-        "_id": "57e8db46c2a7b30f00906dc7",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e8db46c2a7b30f00906dc7.jpg",
-        "id": "57e8db46c2a7b30f00906dc7"
-      },
-      "title": "Sản Phẩm Trang Điểm Flormar",
-      "_validUpcoming": false,
-      "id": "57dc039fe4dc461200006463"
-    },
-    {
       "_id": "57c902d7d87cc30f008a5a10",
       "POTD": false,
       "featured": false,
@@ -242,28 +461,6 @@
       "title": "Sản Phẩm Dưỡng Da Từ Stanhome và Sia Botanics",
       "_validUpcoming": false,
       "id": "57c902d7d87cc30f008a5a10"
-    },
-    {
-      "_id": "57e3719c7527da1000bbd788",
-      "POTD": false,
-      "featured": false,
-      "name": "Sản Phẩm Dưỡng Da Cao Cấp Lancôme",
-      "endDate": "2016-10-04T01:00:00.000Z",
-      "image2": {
-        "_id": "57e8cf99c2a7b30f00906ca2",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e8cf99c2a7b30f00906ca2.jpg",
-        "id": "57e8cf99c2a7b30f00906ca2"
-      },
-      "image1": {
-        "_id": "57e8cf95c2a7b30f00906c9f",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e8cf95c2a7b30f00906c9f.jpg",
-        "id": "57e8cf95c2a7b30f00906c9f"
-      },
-      "title": "Sản Phẩm Dưỡng Da Cao Cấp Lancôme",
-      "_validUpcoming": false,
-      "id": "57e3719c7527da1000bbd788"
     },
     {
       "_id": "57e35ab59773a7100095cb5a",
@@ -550,328 +747,152 @@
       "title": "Thiết Bị Chăm Sóc Sức Khỏe Medisana, Citizen và Buhueng",
       "_validUpcoming": false,
       "id": "57db72789632650f006af963"
-    },
-    {
-      "_id": "57e36b279773a7100095cc9d",
-      "POTD": false,
-      "featured": false,
-      "name": "Thời Trang Nam Fyord và Seaman",
-      "endDate": "2016-09-30T01:00:00.000Z",
-      "image1": {
-        "_id": "57e58f4ee6775a0f004c37f8",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e58f4ee6775a0f004c37f8.jpg",
-        "id": "57e58f4ee6775a0f004c37f8"
-      },
-      "image2": {
-        "_id": "57e58f53e6775a0f004c37f9",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e58f53e6775a0f004c37f9.jpg",
-        "id": "57e58f53e6775a0f004c37f9"
-      },
-      "title": "Thời Trang Nam Fyord và Seaman",
-      "_validUpcoming": false,
-      "id": "57e36b279773a7100095cc9d"
-    },
-    {
-      "_id": "57df72c6af2c4a0f00938e3e",
-      "POTD": false,
-      "featured": true,
-      "name": "Đồ Dùng Nhà Bếp La Gourmet",
-      "endDate": "2016-09-30T01:00:00.000Z",
-      "title": "Đồ Dùng Nhà Bếp La Gourmet",
-      "image1": {
-        "_id": "57e2363beb696d0f00a72d79",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e2363beb696d0f00a72d79.jpg",
-        "id": "57e2363beb696d0f00a72d79"
-      },
-      "image2": {
-        "_id": "57e2363deb696d0f00a72d7c",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e2363deb696d0f00a72d7c.jpg",
-        "id": "57e2363deb696d0f00a72d7c"
-      },
-      "_validUpcoming": false,
-      "id": "57df72c6af2c4a0f00938e3e"
-    },
-    {
-      "_id": "57db75dc9632650f006afa44",
-      "POTD": false,
-      "featured": false,
-      "name": "Đồ Dùng Chăm Sóc Em Bé Graco",
-      "endDate": "2016-10-01T01:00:00.000Z",
-      "image1": {
-        "_id": "57e22a75eb696d0f00a72c50",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e22a75eb696d0f00a72c50.jpg",
-        "id": "57e22a75eb696d0f00a72c50"
-      },
-      "image2": {
-        "_id": "57e22bf3eb696d0f00a72cb8",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e22bf3eb696d0f00a72cb8.jpg",
-        "id": "57e22bf3eb696d0f00a72cb8"
-      },
-      "title": "Đồ Dùng Chăm Sóc Em Bé Graco",
-      "_validUpcoming": false,
-      "id": "57db75dc9632650f006afa44"
-    },
-    {
-      "_id": "57da0ef38d47610f00d280f5",
-      "POTD": false,
-      "featured": false,
-      "name": "Kính Mát Bottega Veneta, Calvin Klein...",
-      "endDate": "2016-10-01T01:00:00.000Z",
-      "image1": {
-        "_id": "57e0ef54c745c410009eb753",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e0ef54c745c410009eb753.jpg",
-        "id": "57e0ef54c745c410009eb753"
-      },
-      "image2": {
-        "_id": "57e0ef58c745c410009eb755",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e0ef58c745c410009eb755.jpg",
-        "id": "57e0ef58c745c410009eb755"
-      },
-      "title": "Kính Mát Bottega Veneta, Calvin Klein...",
-      "_validUpcoming": false,
-      "id": "57da0ef38d47610f00d280f5"
-    },
-    {
-      "_id": "57c8fd58d87cc30f008a5a0f",
-      "POTD": false,
-      "featured": true,
-      "name": "Sản Phẩm Dưỡng Da và Làm Đẹp Yves Rocher",
-      "endDate": "2016-10-01T01:00:00.000Z",
-      "title": "Sản Phẩm Dưỡng Da và Làm Đẹp Yves Rocher",
-      "image1": {
-        "_id": "57e4b09ee6775a0f004c23f9",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e4b09ee6775a0f004c23f9.jpg",
-        "id": "57e4b09ee6775a0f004c23f9"
-      },
-      "image2": {
-        "_id": "57e2089d213fb40f00ee4069",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e2089d213fb40f00ee4069.jpg",
-        "id": "57e2089d213fb40f00ee4069"
-      },
-      "_validUpcoming": false,
-      "id": "57c8fd58d87cc30f008a5a0f"
-    },
-    {
-      "_id": "57da0e678d47610f00d280f1",
-      "POTD": false,
-      "featured": false,
-      "name": "Giày Geox Dành Cho Các Chàng",
-      "endDate": "2016-09-30T01:00:00.000Z",
-      "image1": {
-        "_id": "57df9e79212ef90f006828e6",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57df9e79212ef90f006828e6.jpg",
-        "id": "57df9e79212ef90f006828e6"
-      },
-      "image2": {
-        "_id": "57df9e7d212ef90f006828e7",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57df9e7d212ef90f006828e7.jpg",
-        "id": "57df9e7d212ef90f006828e7"
-      },
-      "title": "Giày Geox Dành Cho Các Chàng",
-      "_validUpcoming": false,
-      "id": "57da0e678d47610f00d280f1"
-    },
-    {
-      "_id": "57da0e588d47610f00d280f0",
-      "POTD": false,
-      "featured": false,
-      "name": "Giày Geox Dành Cho Các Nàng",
-      "endDate": "2016-09-30T01:00:00.000Z",
-      "image1": {
-        "_id": "57df9de3212ef90f006828cc",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57df9de3212ef90f006828cc.jpg",
-        "id": "57df9de3212ef90f006828cc"
-      },
-      "image2": {
-        "_id": "57df9e19212ef90f006828d8",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57df9e19212ef90f006828d8.jpg",
-        "id": "57df9e19212ef90f006828d8"
-      },
-      "title": "Giày Geox Dành Cho Các Nàng",
-      "_validUpcoming": false,
-      "id": "57da0e588d47610f00d280f0"
-    },
-    {
-      "_id": "57da0ab48d47610f00d280c6",
-      "POTD": false,
-      "featured": false,
-      "name": "Túi Xách Thời Trang Neyuh",
-      "endDate": "2016-09-30T01:00:00.000Z",
-      "title": "Túi Xách Thời Trang Neyuh",
-      "image1": {
-        "_id": "57e3bcac57b5f40f00130dae",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e3bcac57b5f40f00130dae.jpg",
-        "id": "57e3bcac57b5f40f00130dae"
-      },
-      "image2": {
-        "_id": "57e3bcb157b5f40f00130daf",
-        "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e3bcb157b5f40f00130daf.jpg",
-        "id": "57e3bcb157b5f40f00130daf"
-      },
-      "_validUpcoming": false,
-      "id": "57da0ab48d47610f00d280c6"
     }
   ],
   "upcoming": [
     {
-      "_id": "57dc0481e4dc461200006467",
-      "name": "Sản Phẩm Trang Điểm E'zup và Isa Knox",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57dbd484e4dc461200005f55",
+      "name": "Giày Sanuk Thời Trang",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57e35c4f9773a7100095cb7e",
+        "_id": "57ec9efd7bf7890f00dbaa4e",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e35c4f9773a7100095cb7e.jpg",
-        "id": "57e35c4f9773a7100095cb7e"
+        "url": "https://leflair-assets.storage.googleapis.com/57ec9efd7bf7890f00dbaa4e.jpg",
+        "id": "57ec9efd7bf7890f00dbaa4e"
       },
       "image3": {
-        "_id": "57e35c539773a7100095cb7f",
+        "_id": "57ec9f037bf7890f00dbaa4f",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57e35c539773a7100095cb7f.jpg",
-        "id": "57e35c539773a7100095cb7f"
+        "url": "https://leflair-assets.storage.googleapis.com/57ec9f037bf7890f00dbaa4f.jpg",
+        "id": "57ec9f037bf7890f00dbaa4f"
       },
       "campaign": false,
       "preview": {
-        "title": "Sản Phẩm Trang Điểm E'zup và Isa Knox",
-        "description": "Tự tin với nét rạng ngời tỏa sáng."
+        "title": "Giày Sanuk Thời Trang",
+        "description": "Mang đến cho bạn sự thoải mái, năng động trong từng thiết kế giày trẻ trung đầy sáng tạo."
       },
       "_validUpcoming": true,
-      "id": "57dc0481e4dc461200006467"
+      "id": "57dbd484e4dc461200005f55"
     },
     {
-      "_id": "57dc0506e4dc461200006469",
-      "name": "Vòng Cổ Yeno",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57dfd25fc745c410009ea2f8",
+      "name": "Kính Mát Marc by Marc Jacobs, Marc Jacobs, Calvin Klein",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57eb3f4caf1edf0f00ff3b00",
+        "_id": "57eb73957bf7890f00db952e",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57eb3f4caf1edf0f00ff3b00.jpg",
-        "id": "57eb3f4caf1edf0f00ff3b00"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb73957bf7890f00db952e.jpg",
+        "id": "57eb73957bf7890f00db952e"
       },
       "image3": {
-        "_id": "57eb3f54af1edf0f00ff3b01",
+        "_id": "57eb739a7bf7890f00db952f",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57eb3f54af1edf0f00ff3b01.jpg",
-        "id": "57eb3f54af1edf0f00ff3b01"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb739a7bf7890f00db952f.jpg",
+        "id": "57eb739a7bf7890f00db952f"
       },
       "campaign": false,
       "preview": {
-        "title": "Vòng Cổ Yeno",
-        "description": "Phụ kiện xinh mang đậm phong cách Hàn Quốc."
+        "title": "Kính Mát Marc by Marc Jacobs, Marc Jacobs, Calvin Klein",
+        "description": "Trải nghiệm những phong cách khác nhau từ cá thiết kế kính mát đến từ Marc by Marc Jacobs, Marc Jacobs và Calvin Klein."
       },
       "_validUpcoming": true,
-      "id": "57dc0506e4dc461200006469"
+      "id": "57dfd25fc745c410009ea2f8"
     },
     {
-      "_id": "57dfd1f4c745c410009ea2f3",
-      "name": "Giày Moon Star Cho Các Bé",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57dfd27dc745c410009ea2f9",
+      "name": "Túi Xách Versace Jeans và Cavalli Class",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57eca8e87bf7890f00dbad9e",
+        "_id": "57eb97117bf7890f00db9b15",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57eca8e87bf7890f00dbad9e.jpg",
-        "id": "57eca8e87bf7890f00dbad9e"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb97117bf7890f00db9b15.jpg",
+        "id": "57eb97117bf7890f00db9b15"
       },
       "image3": {
-        "_id": "57eb62f97bf7890f00db91b0",
+        "_id": "57eb97167bf7890f00db9b16",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57eb62f97bf7890f00db91b0.jpg",
-        "id": "57eb62f97bf7890f00db91b0"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb97167bf7890f00db9b16.jpg",
+        "id": "57eb97167bf7890f00db9b16"
       },
       "campaign": false,
       "preview": {
-        "title": "Giày Moon Star Cho Các Bé",
-        "description": "Giày xinh cho các bé thoải mái vui chơi suốt cả ngày."
+        "title": "Túi Xách Versace Jeans và Cavalli Class",
+        "description": "Phong cách sang trọng cho các quý cô hiện đại."
       },
       "_validUpcoming": true,
-      "id": "57dfd1f4c745c410009ea2f3"
+      "id": "57dfd27dc745c410009ea2f9"
     },
     {
-      "_id": "57e373007527da1000bbd789",
-      "name": "Đồng Hồ Jazma Dành Cho Cách Nàng",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57dfd2d5c745c410009ea2fd",
+      "name": "Gọng Kính Marc by Marc Jacobs, Marc Jacobs, Calvin Klein",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57ec80607bf7890f00dba000",
+        "_id": "57eb86b27bf7890f00db983b",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ec80607bf7890f00dba000.jpg",
-        "id": "57ec80607bf7890f00dba000"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb86b27bf7890f00db983b.jpg",
+        "id": "57eb86b27bf7890f00db983b"
       },
       "image3": {
-        "_id": "57ec80677bf7890f00dba003",
+        "_id": "57eb86b67bf7890f00db9844",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ec80677bf7890f00dba003.jpg",
-        "id": "57ec80677bf7890f00dba003"
+        "url": "https://leflair-assets.storage.googleapis.com/57eb86b67bf7890f00db9844.jpg",
+        "id": "57eb86b67bf7890f00db9844"
       },
       "campaign": false,
       "preview": {
-        "title": "Đồng Hồ Jazma và Fastrack Dành Cho Cách Nàng",
-        "description": "Tận hưởng những thiết kế độc đáo, tinh tế và đầy nghệ thuật."
+        "title": "Gọng Kính Marc by Marc Jacobs, Marc Jacobs, Calvin Klein",
+        "description": "Trải nghiệm những phong cách khác nhau từ cá thiết kế gọng kính đến từ Marc by Marc Jacobs, Marc Jacobs và Calvin Klein."
       },
       "_validUpcoming": true,
-      "id": "57e373007527da1000bbd789"
+      "id": "57dfd2d5c745c410009ea2fd"
     },
     {
-      "_id": "57e373137527da1000bbd78a",
-      "name": "Đồng Hồ Jazma Dành Cho Cách Chàng",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57dfd3e5c745c410009ea309",
+      "name": "Sơn Móng Tay Revlon",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57ec84417bf7890f00dba070",
+        "_id": "57ecea8e7bf7890f00dbb655",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ec84417bf7890f00dba070.jpg",
-        "id": "57ec84417bf7890f00dba070"
+        "url": "https://leflair-assets.storage.googleapis.com/57ecea8e7bf7890f00dbb655.jpg",
+        "id": "57ecea8e7bf7890f00dbb655"
       },
       "image3": {
-        "_id": "57ec844a7bf7890f00dba072",
+        "_id": "57ecea917bf7890f00dbb656",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ec844a7bf7890f00dba072.jpg",
-        "id": "57ec844a7bf7890f00dba072"
+        "url": "https://leflair-assets.storage.googleapis.com/57ecea917bf7890f00dbb656.jpg",
+        "id": "57ecea917bf7890f00dbb656"
       },
       "campaign": false,
       "preview": {
-        "description": "Tận hưởng những thiết kế độc đáo, tinh tế và đầy nghệ thuật.",
-        "title": "Đồng Hồ Jazma và Fastrack Dành Cho Cách Chàng"
+        "title": "Sơn Móng Tay Revlon",
+        "description": "Thêm sắc màu, thêm cá tính."
       },
       "_validUpcoming": true,
-      "id": "57e373137527da1000bbd78a"
+      "id": "57dfd3e5c745c410009ea309"
     },
     {
-      "_id": "57e5381be6775a0f004c3796",
-      "name": "Kính Mát Polaroid Dành Cho Các Bé",
-      "startDate": "2016-09-30T01:00:00.000Z",
+      "_id": "57e8c991c2a7b30f00906b8a",
+      "name": "Sản Phẩm Chống Muỗi Parakito",
+      "startDate": "2016-10-02T01:00:00.000Z",
       "image2": {
-        "_id": "57ea483eaf1edf0f00ff3438",
+        "_id": "57eccc197bf7890f00dbb156",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ea483eaf1edf0f00ff3438.jpg",
-        "id": "57ea483eaf1edf0f00ff3438"
+        "url": "https://leflair-assets.storage.googleapis.com/57eccc197bf7890f00dbb156.jpg",
+        "id": "57eccc197bf7890f00dbb156"
       },
       "image3": {
-        "_id": "57ea4842af1edf0f00ff3439",
+        "_id": "57eccc1a7bf7890f00dbb157",
         "fileType": "jpg",
-        "url": "https://leflair-assets.storage.googleapis.com/57ea4842af1edf0f00ff3439.jpg",
-        "id": "57ea4842af1edf0f00ff3439"
+        "url": "https://leflair-assets.storage.googleapis.com/57eccc1a7bf7890f00dbb157.jpg",
+        "id": "57eccc1a7bf7890f00dbb157"
       },
       "campaign": false,
       "preview": {
-        "title": "Kính Mát Polaroid Dành Cho Các Bé",
-        "description": "Bảo vệ đôi mắt cho các bé yêu."
+        "title": "Sản Phẩm Chống Muỗi Parakito",
+        "description": "Bảo vệ an toàn cho cả gia đình bạn."
       },
       "_validUpcoming": true,
-      "id": "57e5381be6775a0f004c3796"
+      "id": "57e8c991c2a7b30f00906b8a"
     }
   ],
   "banner": [
