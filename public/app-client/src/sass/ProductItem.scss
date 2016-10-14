@@ -25,13 +25,19 @@
 		    color: #16accf;
 		    font-weight: 600;
 		}
-		.original-price {
-		    font-size: 16px;
-		    color: #BCBCBC;
-		    text-decoration: line-through;
-		    font-weight: 400;
-		}
+		//.original-price {
+		//    font-size: 16px;
+		//    color: #BCBCBC;
+		//    text-decoration: line-through;
+		//    font-weight: 400;
+		//}
 	}
+}
+.original-price {
+	font-size: 16px;
+	color: #BCBCBC;
+	text-decoration: line-through;
+	font-weight: 400;
 }
 
 .thumbnail {

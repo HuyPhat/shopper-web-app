@@ -25,7 +25,6 @@ const SaleList = React.createClass({
                 this.setState({filteredSales: data})
                 this.setState({products: data.products})
                 this.setState({url: data.image4.url})
-                console.log(this.state.filteredSales)
             }.bind(this),
             error: function (xhr, status, err) {
                 console.error("http://localhost:4000/api/v1/sales/" + this.props.params.id, status, err.toString());
@@ -61,7 +60,7 @@ const SaleList = React.createClass({
                         <Row>
                             {this.state.products.map(function (product, i) {
                                 return (
-                                    <ProductItem data={product}/>
+                                    <ProductItem key={product._id} data={product}/>
                                 )
                             }, this)}
                         </Row>

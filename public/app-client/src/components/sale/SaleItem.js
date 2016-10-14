@@ -3,7 +3,7 @@
  */
 import React from 'react'
 import Moment from "moment"
-import {Grid, Row, Col} from 'react-bootstrap'
+import {Col} from 'react-bootstrap'
 import {Link} from 'react-router'
 // import './css/Sale.css'
 

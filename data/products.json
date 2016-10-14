@@ -1,64 +1,287 @@
 [
   {
-    "_id": "57e241b7eb696d0f00a72f48",
+    "_id": "57dbb97ce4dc461200005740",
     "brand": {
-      "description": "Mollis là nhãn hiệu của những chiếc khăn bông và áo choàng tắm cao cấp, lấy ý tưởng từ sự gắn kết cuộc sống, điều kỳ diệu của tình yêu thương và tâm hồn của người nghệ sĩ. Với chất liệu bền đẹp, thân thiện và an toàn, sản phẩm của Mollis mang đến trải nghiệm chăm sóc đầy mềm mại, dịu dàng và tinh tế, quyến rũ và say đắm lòng người cho cuộc sống hiện đại.",
-      "name": "Mollis",
-      "logo": "https://leflair-assets.storage.googleapis.com/57eb69957bf7890f00db933c.png"
+      "description": "Esteem là thương hiệu thuộc Bio Nutrition, công ty thực phẩm chức năng nổi tiếng và uy tín của Mỹ với các dòng dược mỹ phẩm, thực phẩm dinh dưỡng, thực phẩm chức năng. Với mục tiêu mang đến sự chăm sóc tốt nhất cho mỗi gia đình, sản phẩm của Esteem được kiểm nghiệm nghiêm ngặt về tiêu chuẩn sản xuất, chất lượng và tuyệt đối an toàn đối với sức khỏe người dùng.",
+      "name": "Esteem",
+      "logo": "https://leflair-assets.storage.googleapis.com/57c071119fbe8d0f007d8a96.png"
     },
-    "retailPrice": 418000,
-    "salePrice": 379000,
-    "variationAttributes": {
-      "Color": [
-        {
-          "name": "ĐỎ-NÂU",
-          "hex": ""
-        }
-      ]
-    },
+    "retailPrice": 420000,
+    "salePrice": 349000,
     "sale": {
-      "_id": "57dc055ae4dc46120000646d",
-      "name": "Khăn Bông Mềm Mại Mollis",
-      "endDate": "2016-10-04T01:00:00.000Z",
+      "_id": "57f24057753f8f0f00c47087",
+      "name": "Thực Phẩm Chức Năng Từ Esteem, Tigo,...",
+      "endDate": "2016-10-15T01:00:00.000Z",
       "POTD": false
     },
-    "images": [
-
-        "https://leflair-assets.storage.googleapis.com/57eb4eb47bf7890f00db90d1.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d3.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d2.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d4.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ebe7bf7890f00db90d5.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4eca7bf7890f00db90d6.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4eca7bf7890f00db90d7.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ecb7bf7890f00db90d8.jpg",
-        "https://leflair-assets.storage.googleapis.com/57eb4ecb7bf7890f00db90d9.jpg"
-
-    ],
-    "materialCare": "~Thành phần: 100% cotton\n~Hướng dẫn sử dụng: \nCó thể giặt bằng máy giặt\nGiặt ở tối đa 40°C, ủi ở tối đa 100°C\nKhông sử dụng các chất giặt tẩy mạnh",
-    "sizeFit": "~ Kích thước:\nKhăn tắm: 60 x 120 cm\nKhăn mặt: 34 x 78 cm\nKhăn tay: 30 x 48 cm\n~ Khối lượng:\nKhăn tắm: 250g\nKhăn mặt: 95g\nKhăn tay: 52g",
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/57f75e94f4b05b1000915337.jpg",
+        "https://leflair-assets.storage.googleapis.com/57e50ba4e6775a0f004c35b3.jpg"
+      ]
+    },
     "variations": [
       {
         "_quantity": 5,
-        "Color": "ĐỎ-NÂU",
-        "_salePrice": null,
-        "_retailPrice": null,
-        "_barcode": "P692-DO/ P692-NA",
-        "_id": "57e241b7eb696d0f00a72f47"
+        "_id": "57dbb97ce4dc46120000573f",
+        "_barcode": "854196006984",
+        "_retailPrice": 420000,
+        "_salePrice": 420000
       }
     ],
     "description": {
-      "heading": "Mềm mại và dịu êm chăm sóc làn da cho cả gia đình bạn",
-      "secondary": "Nơi sản xuất: Việt Nam"
+      "heading": "Cho cuộc sống tươi tắn và khỏe mạnh",
+      "secondary": "Xuất xứ: Mỹ\nNơi sản xuất: Mỹ\nCông dụng: Giúp tăng oxi hóa chất béo, đẩy mạnh quá trình tiêu hao năng lượng, giảm cảm giác ngon miệng, ức chế cơn thèm ăn, giảm tích tụ mỡ trong cơ thể, hỗ trợ giảm cân. Giữ cơ thể thon thả. Giúp duy trì khối lượng mô thịt trong giai đoạn giảm cân. Giúp tăng cường tác dụng đốt cháy mỡ khi luyện tập thể thao.\nThành phần: Chiết xuất raspberry ketone từ quả mâm xôi đỏ.\nHướng dẫn sử dụng: 2 viên/ngày sau bữa trưa.\nHạn sử dụng: ít nhất đến 09/2017"
     },
-    "name": "Bộ: 2 Combo Khăn Tắm, Khăn Mặt, Khăn Tay Thêu  Họa Tiết Vuông",
+    "name": "Viên Đốt Mỡ Thừa Ban Ngày 60 viên  (Tặng Ban Đêm)",
     "_isReturnable": false,
-    "_attributeGroupBy": "Color",
+    "_attributeGroupBy": null,
     "wishlist": [
       {
-        "variation": {
-          "Color": "ĐỎ-NÂU"
-        },
+        "variation": {},
+        "wishlistExisted": false
+      }
+    ]
+  },
+  {
+    "_id": "57bd41bbcc7e380f005a2f73",
+    "brand": {
+      "description": "Flex là công ty dược phẩm Mỹ chuyên sản xuất các loại thực phẩm chức năng có nguồn gốc thảo mộc tự nhiên, giúp chăm sóc sức khỏe toàn diện cho con người. Với công dụng đa dạng từ quá trình nghiên cứu lâu dài của các nhà khoa học, sản phẩm của Flex đã vượt qua tất cả khâu kiểm duyệt khắt khe về độ an toàn, hiệu quả và mang đến những lựa chọn đảm bảo chất lượng cho người tiêu dùng.",
+      "name": "Flex",
+      "logo": "https://leflair-assets.storage.googleapis.com/57c07afb9fbe8d0f007d8a9c.png"
+    },
+    "retailPrice": 1050000,
+    "salePrice": 499000,
+    "sale": {
+      "_id": "57f24057753f8f0f00c47087",
+      "name": "Thực Phẩm Chức Năng Từ Esteem, Tigo,...",
+      "endDate": "2016-10-15T01:00:00.000Z",
+      "POTD": false
+    },
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/57f75ea8f4b05b1000915338.jpg",
+        "https://leflair-assets.storage.googleapis.com/57c038889fbe8d0f007d8a07.jpg"
+      ]
+    },
+    "materialCare": "Bảo quản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.",
+    "variations": [
+      {
+        "_quantity": 5,
+        "_salePrice": 559000,
+        "_retailPrice": 1050000,
+        "_barcode": "683416883032",
+        "_id": "57bd41bbcc7e380f005a2f72"
+      }
+    ],
+    "description": {
+      "secondary": "~Công dụng:\nĐốt cháy mỡ thừa, giúp giảm cân hiệu quả và an toàn\nGiảm hấp thu chất béo, thanh lọc cơ thể\nGiảm đường huyết, cholesterol và cải thiện lipid trong máu\n~Quy cách: 60 viên\n~Thành phần: Dầu hoa rum\n~Đối tượng sử dụng: Người có nhu cầu giảm cân từ 18-60 tuổi\n~Chống chỉ định: \nKhông dùng cho phụ nữ có thai hoặc đang cho con bú\nKhông dùng cho người mắc các bệnh tim mạch, huyết áp, tiểu đường, suy gan, suy thận, thần kinh, lo âu trầm cảm\n~Cách dùng: Uống 1-2 lần mỗi ngày trước bữa ăn 30 phút, mỗi lần 02 viên \n~Xuất xứ: Mỹ\n~Nơi sản xuất: Mỹ\n~Hạn sử dụng: Ít nhất đến tháng 09/2017",
+      "heading": "Cho cuộc sống tươi tắn và khỏe mạnh"
+    },
+    "name": "Viên Uống Hỗ Trợ Giảm Cân Flex CLA (Tặng Kem Tan Mỡ Dr.Oz 110g)",
+    "_isReturnable": false,
+    "_attributeGroupBy": null,
+    "wishlist": [
+      {
+        "variation": {},
+        "wishlistExisted": false
+      }
+    ]
+  },
+  {
+    "_id": "57dbb97ce4dc461200005742",
+    "brand": {
+      "description": "Esteem là thương hiệu thuộc Bio Nutrition, công ty thực phẩm chức năng nổi tiếng và uy tín của Mỹ với các dòng dược mỹ phẩm, thực phẩm dinh dưỡng, thực phẩm chức năng. Với mục tiêu mang đến sự chăm sóc tốt nhất cho mỗi gia đình, sản phẩm của Esteem được kiểm nghiệm nghiêm ngặt về tiêu chuẩn sản xuất, chất lượng và tuyệt đối an toàn đối với sức khỏe người dùng.",
+      "name": "Esteem",
+      "logo": "https://leflair-assets.storage.googleapis.com/57c071119fbe8d0f007d8a96.png"
+    },
+    "retailPrice": 420000,
+    "salePrice": 349000,
+    "sale": {
+      "_id": "57f24057753f8f0f00c47087",
+      "name": "Thực Phẩm Chức Năng Từ Esteem, Tigo,...",
+      "endDate": "2016-10-15T01:00:00.000Z",
+      "POTD": false
+    },
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/57f75e80f4b05b1000915336.jpg",
+        "https://leflair-assets.storage.googleapis.com/57e50bd9e6775a0f004c35ba.jpg"
+      ]
+    },
+    "variations": [
+      {
+        "_quantity": 5,
+        "_salePrice": 420000,
+        "_retailPrice": 420000,
+        "_barcode": "854196006991",
+        "_id": "57dbb97ce4dc461200005741"
+      }
+    ],
+    "description": {
+      "heading": "Cho cuộc sống tươi tắn và khỏe mạnh",
+      "secondary": "Xuất xứ: Mỹ\nNơi sản xuất: Mỹ\nCông dụng: Giúp tăng HDL Cholesterol (tốt) và giảm LDL Cholesterol (xấu). Hỗ trợ phân hủy mỡ trong máu và mỡ trong chế độ ăn uống thành các phân tử nhỏ hơn. Nhũ hóa chất béo. Làm giảm khối lượng mỡ trong nội tạng, giảm mỡ triglyceride trong máu. Giúp duy trì mô thịt trong giai đoạn giảm cân. Tăng cường đốt cháy mỡ khi tập thể thao.\nThành phần: L-Arginine HCl, Glycine, L-Arginine Pyroglutamate PCA,...\nHướng dẫn sử dụng: 2 viên/ngày sau bữa tối.\nHạn sử dụng: ít nhất đến 09/2017"
+    },
+    "name": "Viên Đốt Mỡ Thừa Ban Đêm 60 viên (Tặng Ban Ngày)",
+    "_isReturnable": false,
+    "_attributeGroupBy": null,
+    "wishlist": [
+      {
+        "variation": {},
+        "wishlistExisted": false
+      }
+    ]
+  },
+  {
+    "_id": "56f4b63fa139730e00884f72",
+    "salePrice": 1579000,
+    "retailPrice": 3900000,
+    "sale": {
+      "_id": "57ebb8897bf7890f00db9e78",
+      "name": "Đồng Hồ Thời Trang Cacharel, Fontenay,...Dành Cho Các Nàng",
+      "endDate": "2016-10-12T01:00:00.000Z",
+      "POTD": false
+    },
+    "variationAttributes": {},
+    "brand": {
+      "description": "Thương hiệu danh tiếng đến từ nước Pháp Fontenay được ưa chuộng trên thế giới bởi sự trang nhã, tinh tế và sang trọng trong từng thiết kế. Bộ sưu tập đồng hồ, trang sức, phụ kiện của Fontenay đã có được vị trí uy tín trên thị trường quốc tế nhờ vào chất lượng tinh xảo cùng các thiết kế hoàn mĩ làm nức lòng bao tín đồ thời trang.",
+      "name": "Fontenay",
+      "logo": "https://leflair-assets.storage.googleapis.com/56c69857797f3c110026d0d0.png"
+    },
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/56f94261e501710e004c8ce3.jpg",
+        "https://leflair-assets.storage.googleapis.com/56f94261e501710e004c8ce4.jpg",
+        "https://leflair-assets.storage.googleapis.com/56f94261e501710e004c8ce2.jpg",
+        "https://leflair-assets.storage.googleapis.com/56f94261e501710e004c8ce1.jpg"
+      ]
+    },
+    "materialCare": "Chất liệu vỏ: Thép không gỉ mạ vàng\nChất liệu dây đeo: Thép không gỉ mạ vàng\nMặt kính: Kính khoáng cứng\nBảo quản: Lau với nước bằng vải mềm",
+    "sizeFit": "Kích thước vỏ: 18 x 22mm\nĐộ dày vỏ: 5mm\nĐộ rộng dây: 10mm",
+    "variations": [
+      {
+        "_id": "5731640dc13084a5fcda61e3",
+        "_retailPrice": 3690000,
+        "_barcode": "PR-00003061",
+        "_quantity": 2,
+        "_salePrice": 1369000
+      },
+      {
+        "_id": "5731640dc13084a5fcda61e4",
+        "_retailPrice": null,
+        "_barcode": "346QMJWMJ",
+        "_quantity": 0,
+        "_salePrice": null
+      }
+    ],
+    "description": {
+      "secondary": "Loại máy: Quartz\nĐộ chịu nước: 3 ATM\nLoại khóa: Khóa bấm\nXuất xứ: Pháp\nGia công tại: Trung Quốc\nBảo hành: 1 năm\nTrung tâm bảo hành: Công ty TNHH Thời Trang Ngân Hà, 86 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",
+      "heading": "Thanh lịch cùng đồng hồ đến từ nước Pháp"
+    },
+    "name": "Đồng Hồ Nữ Mặt Oval Màu Trắng",
+    "_isReturnable": false,
+    "_attributeGroupBy": null,
+    "wishlist": [
+      {
+        "variation": {},
+        "wishlistExisted": false
+      }
+    ]
+  },
+  {
+    "_id": "56c6ffe34b10c20e00295330",
+    "salePrice": 1659000,
+    "retailPrice": 3690000,
+    "sale": {
+      "_id": "57ebb8897bf7890f00db9e78",
+      "name": "Đồng Hồ Thời Trang Cacharel, Fontenay,...Dành Cho Các Nàng",
+      "endDate": "2016-10-12T01:00:00.000Z",
+      "POTD": false
+    },
+    "variationAttributes": {},
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/56c986b74b10c20e002954a1.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c986b74b10c20e002954a0.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c986b74b10c20e002954a2.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c986b74b10c20e002954a3.jpg"
+      ]
+    },
+    "brand": {
+      "description": "Thương hiệu danh tiếng đến từ nước Pháp Fontenay được ưa chuộng trên thế giới bởi sự trang nhã, tinh tế và sang trọng trong từng thiết kế. Bộ sưu tập đồng hồ, trang sức, phụ kiện của Fontenay đã có được vị trí uy tín trên thị trường quốc tế nhờ vào chất lượng tinh xảo cùng các thiết kế hoàn mĩ làm nức lòng bao tín đồ thời trang.",
+      "name": "Fontenay",
+      "logo": "https://leflair-assets.storage.googleapis.com/56c69857797f3c110026d0d0.png"
+    },
+    "materialCare": "Chất liệu vỏ: Thép không gỉ mạ vàng\nChất liệu dây đeo: Thép không gỉ mạ vàng\nMặt kính: Kính khoáng cứng\nBảo quản: Lau với nước bằng vải mềm",
+    "sizeFit": "Đường kính vỏ: 22.7 mm\nĐộ dày vỏ: 6mm\nChiều rộng dây: 6mm",
+    "variations": [
+      {
+        "_id": "573163d8c13084a5fcda5ca0",
+        "_retailPrice": 3690000,
+        "_barcode": "PR-00003060",
+        "_quantity": 3,
+        "_salePrice": 1369000
+      }
+    ],
+    "description": {
+      "secondary": "Loại máy: Quartz\nĐộ chịu nước: 3 ATM\nLoại khóa: khóa bấm\nXuất xứ: Pháp\nGia công tại: Trung Quốc\nBảo hành: 1 năm\nTrung tâm bảo hành: Công ty TNHH Thời Trang Ngân Hà, 86 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",
+      "heading": "Thanh lịch cùng đồng hồ đến từ nước Pháp"
+    },
+    "name": "Đồng Hồ Nữ Màu Vàng",
+    "_isReturnable": false,
+    "_attributeGroupBy": null,
+    "wishlist": [
+      {
+        "variation": {},
+        "wishlistExisted": false
+      }
+    ]
+  },
+  {
+    "_id": "56c6ffe34b10c20e00295339",
+    "salePrice": 1849000,
+    "retailPrice": 3690000,
+    "sale": {
+      "_id": "57ebb8897bf7890f00db9e78",
+      "name": "Đồng Hồ Thời Trang Cacharel, Fontenay,...Dành Cho Các Nàng",
+      "endDate": "2016-10-12T01:00:00.000Z",
+      "POTD": false
+    },
+    "variationAttributes": {},
+    "brand": {
+      "description": "Thương hiệu danh tiếng đến từ nước Pháp Fontenay được ưa chuộng trên thế giới bởi sự trang nhã, tinh tế và sang trọng trong từng thiết kế. Bộ sưu tập đồng hồ, trang sức, phụ kiện của Fontenay đã có được vị trí uy tín trên thị trường quốc tế nhờ vào chất lượng tinh xảo cùng các thiết kế hoàn mĩ làm nức lòng bao tín đồ thời trang.",
+      "name": "Fontenay",
+      "logo": "https://leflair-assets.storage.googleapis.com/56c69857797f3c110026d0d0.png"
+    },
+    "images": {
+      "All": [
+        "https://leflair-assets.storage.googleapis.com/56c989a24b10c20e002954c4.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c989a24b10c20e002954c5.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c989a24b10c20e002954c6.jpg",
+        "https://leflair-assets.storage.googleapis.com/56c989a24b10c20e002954c7.jpg"
+      ]
+    },
+    "materialCare": "Chất liệu vỏ: Thép không gỉ mạ vàng\nChất liệu dây đeo: Thép không gỉ mạ vàng\nMặt kính: Kính khoáng cứng\nBảo quản: Lau với nước bằng vải mềm",
+    "sizeFit": "Kích thước vỏ: 22 x 23 mm\nĐộ dày vỏ: 6mm\nChiều rộng dây: 10mm",
+    "variations": [
+      {
+        "_id": "573163d8c13084a5fcda5ca9",
+        "_retailPrice": 3690000,
+        "_barcode": "PR-00003063",
+        "_quantity": 1,
+        "_salePrice": 1469000
+      }
+    ],
+    "description": {
+      "secondary": "Loại máy: Quartz\nĐộ chịu nước: 3 ATM\nLoại khóa: khóa bấm\nXuất xứ: Pháp\nGia công tại: Trung Quốc\nBảo hành: 1 năm\nTrung tâm bảo hành: Công ty TNHH Thời Trang Ngân Hà, 86 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",
+      "heading": "Thanh lịch cùng đồng hồ đến từ nước Pháp"
+    },
+    "name": "Đồng Hồ Nữ Mạ Vàng",
+    "_isReturnable": false,
+    "_attributeGroupBy": null,
+    "wishlist": [
+      {
+        "variation": {},
         "wishlistExisted": false
       }
     ]

@@ -20,11 +20,12 @@
       font-size: 16px;
       color: #16accf;
       font-weight: 600; }
-    .product-grid-item .product-grid-details .original-price {
-      font-size: 16px;
-      color: #BCBCBC;
-      text-decoration: line-through;
-      font-weight: 400; }
+
+.original-price {
+  font-size: 16px;
+  color: #BCBCBC;
+  text-decoration: line-through;
+  font-weight: 400; }
 
 .thumbnail {
   padding: 0;

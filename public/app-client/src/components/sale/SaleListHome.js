@@ -25,17 +25,16 @@ const SaleListHome = React.createClass({
             }.bind(this),
             error: function (xhr, status, err) {
                 console.error("http://localhost:4000/api/v1/sales/", status, err.toString());
-            }.bind(this)
+            }
         });
     },
     render() {
-        console.log(this.state.featured);
         const imgSrc = this.state.featured.image1 ? this.state.featured.image1.url : "";
         return (
             <section>
                 <section>
                     <a className="image-link" href={"/sales/" + this.state.featured.id}>
-                        <img className="fluid category-hero" src={imgSrc}/>
+                        <img className="fluid category-hero" role="presentation" src={imgSrc}/>
                     </a>
                 </section>
                 <section>

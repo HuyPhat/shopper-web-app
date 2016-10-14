@@ -17,7 +17,6 @@ const App = React.createClass({
         window.removeEventListener('scroll', this.handleScroll);
     },
     handleScroll: function(event) {
-        // if(($(document).scrollTop() + $(window).height() / 2) > ($('body').height() / 2)){
         if($(document).scrollTop()){
             this.setState({
                 'shadow': 'inset 0 1px 0 rgba(255, 255, 255, .15), 0 3px 5px rgba(0, 0, 0, .075)'
@@ -27,17 +26,14 @@ const App = React.createClass({
                 'shadow': 'none'
             });
         }
-        // this.setState({
-        //     'shadow': 'inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075)'
-        // });
     },
     render() {
-        var style = {'box-shadow': this.state.shadow}
+        var style = {'boxShadow': this.state.shadow}
         const navbarInstance = (
             <Navbar style={style} className="navbar-fixed-top">
                 <Navbar.Header>
                   <Navbar.Brand>
-                    <a href="/sales"><img src={logo}/></a>
+                    <a href="/sales"><img role="presentation" src={logo}/></a>
                   </Navbar.Brand>
                   <Navbar.Toggle />
                 </Navbar.Header>

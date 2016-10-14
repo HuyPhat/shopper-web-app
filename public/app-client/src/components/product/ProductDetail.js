@@ -2,8 +2,9 @@
  * Created by phathuy on 9/18/16.
  */
 import React from 'react'
-import {Grid, Row, Col, Breadcrumb} from 'react-bootstrap'
+import {Grid, Row, Col, Breadcrumb, ButtonToolbar, Button, Accordion, Panel, Image} from 'react-bootstrap'
 import $ from "jquery"
+import NumberFormat from 'react-number-format'
 import '../../css/ProductDetail.css'
 import ProductImageSlider from '../product/ProductImageSlider';
 
@@ -33,7 +34,6 @@ const ProductDetail = React.createClass({
         this.serverRequest.abort()
     },
     render() {
-        console.log(this.state.product)
         if ($.isEmptyObject(this.state.product)) {
             return (
                 <Grid className="product-detail-container">
@@ -44,36 +44,59 @@ const ProductDetail = React.createClass({
             )
         }
         else {
-            const url = '/sales/' + this.state.product.sale._id
+            let product = this.state.product;
+            let url = '/sales/' + product.sale._id;
+            let productInfoArray = product.description.secondary.split("\n");
+            let productInfo = productInfoArray.map((item,index)=>
+                <li key={index}>{item}</li>
+            );
+            let materialCareArray = product.materialCare.split("\n");
+            let materialCare = materialCareArray.map((item,index)=>
+                <li key={index}>{item}</li>
+            );
+            let sizeFitArray = product.sizeFit.split("\n");
+            let sizeFit = sizeFitArray.map((item,index)=>
+                <li key={index}>{item}</li>
+            );
             return (
-                <Grid>
+                <Grid className="product-detail-container">
                     <Row>
-                        <Breadcrumb className="custom-breadcrumb">
-                            <Breadcrumb.Item href="/">Sales</Breadcrumb.Item>
-                            <Breadcrumb.Item href={url}>{this.state.product.sale.name}</Breadcrumb.Item>
-                            <Breadcrumb.Item active>{this.state.product.name}</Breadcrumb.Item>
-                        </Breadcrumb>
+                        <Col sm={12}>
+                            <Breadcrumb className="custom-breadcrumb">
+                                <Breadcrumb.Item href="/">Sales</Breadcrumb.Item>
+                                <Breadcrumb.Item href={url}>{this.state.product.sale.name}</Breadcrumb.Item>
+                                <Breadcrumb.Item active>{this.state.product.name}</Breadcrumb.Item>
+                            </Breadcrumb>
+                        </Col>
                     </Row>
                     <Row>
                         <Col sm={7}>
-                            <div className="product-image-wrapper">
-                                <ProductImageSlider images={this.state.product.images} />
-                            </div>
-                            <div className="apart-big apart-no-bottom hidden-xs">
-                                <img className="brand-logo" src={this.state.product.brand.logo}/>
-                                <h5>"{this.state.product.description.heading}"</h5>
-                                <p>{this.state.product.brand.description}</p>
+                            <ProductImageSlider images={this.state.product.images} />
+                            <div className="product-summary">
+                                <Image src={product.brand.logo} responsive />
+                                <div className="description-heading"><q>{product.description.heading}</q></div>
+                                <div>{product.brand.description}</div>
                             </div>
                         </Col>
-                        <Col sm={5}>
-                            <div className="product-info main apart-sm">
-                                <div className="product-brand">{this.state.product.brand.name}</div>
-                                <div className="product-title">{this.state.product.name}</div>
-                                <div className="product-price">
-                                    <span className="product-price-discount">{this.state.product.retailPrice}</span>
-                                    <span className="product-price-total">{this.state.product.salePrice}</span>
-                                </div>
-                            </div>
+                        <Col sm={5} className="product-more-detail">
+                            <p className="brand-name">{product.brand.name}</p>
+                            <p className="product-name">{product.name}</p>
+                            <NumberFormat className="price original-price" value={product.retailPrice} displayType={'text'} thousandSeparator={true} suffix={'đ'}/>
+                            <NumberFormat className="price sale-price" value={product.salePrice} displayType={'text'} thousandSeparator={true} suffix={'đ'}/>
+                            <ButtonToolbar>
+                                <Button className="btn-add-to-cart" bsSize="large" bsStyle="default" block>Add To Cart</Button>
+                            </ButtonToolbar>
+                            <Accordion>
+                                <Panel header="PRODUCT INFORMATION" eventKey="1">
+                                    <ul>{productInfo}</ul>
+                                </Panel>
+                                <Panel header="MATERIAL & CARE" eventKey="2">
+                                    <ul>{materialCare}</ul>
+                                </Panel>
+                                <Panel header="SIZE & FIT" eventKey="3">
+                                    <ul>{sizeFit}</ul>
+                                </Panel>
+                            </Accordion>
                         </Col>
                     </Row>
                 </Grid>

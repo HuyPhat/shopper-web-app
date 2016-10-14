@@ -39,11 +39,12 @@ body {
 
 .App-body {
   font-size: 100%;
-  /*padding-top: 4em;*/
+  padding-top: 50px;
 }
 
 .navbar {
   /*border: none;*/
+  /*min-height: 60px;*/
 }
 
 .navbar-brand > img {

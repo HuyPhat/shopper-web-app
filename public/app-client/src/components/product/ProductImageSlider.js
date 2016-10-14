@@ -1,30 +1,32 @@
 import React from 'react';
-import {Row, Col} from 'react-bootstrap';
+import {Col, Thumbnail,Image} from 'react-bootstrap';
 
-const ProductImageSlider = ({images}) =>
-	<Row>
-		<Col md={10} className="big-image">
-			<div className="imageSlide">
-				<img className="img-responsive product-displayed-image" src={images[0]}/>
+class ProductImageSlider extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = {
+			bigImageUrl: props.images.All[0],
+			images: props.images
+		};
+		this.handleClick = this.handleClick.bind(this);
+	}
+	handleClick(target) {
+		this.setState({bigImageUrl: target});
+	}
+	render() {
+		return (
+			<div className="product-image-slider-container">
+				<Col sm={2} className="left-image-container">
+					{this.state.images.All.map((image,index) =>
+						<Col sm={12} key={index}><Thumbnail href="#" alt="171x180" src={image} onClick={() => this.handleClick(image)}/></Col>
+					)}
+				</Col>
+				<Col sm={10}>
+					<Image src={this.state.bigImageUrl} responsive />
+				</Col>
 			</div>
-		</Col>
-		<Col md={2} className="thumbnail-container">
-			<div className="outer-wrapper">
-				<div className="content-wrapper">
-					<div className="content">
-						<div className="inner-content">
-							<ul className="list-inline">
-								{images.map((image, index) =>
-									<li>
-										<img className="thumbnail product-image-thumbnail" key={index} src={image}/>
-									</li>
-								)}
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</Col>
-	</Row>
+		)
+	}
+}
 
 export default ProductImageSlider;
